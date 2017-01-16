@@ -1,5 +1,15 @@
 # catatan-silsilah
 
+## To Do (belum selesai)
+
+*	Rodovid Link
+
+*	Mataram Link with Rodovid Link.
+
+*	Kalioso Link
+
+*	Diagram Sisilah.
+
 
 ## Kata Pengantar
 
@@ -11,7 +21,7 @@ Gagasan menulis silsilah ini berasal dari keingintahuan pribadi,
 yang dimulai dari meringkas silsilah mataram dari sumber Rodovid.org,
 salin-dan-tempel (copy-paste) satu-per-satu, ke notepad.
 Sayangnya sumber dari Rodovid ini kadangkala tidak akurat,
-yaitu kurang lengkap, atau terbalik-balik silsilah-nya,
+yaitu kurang lengkap, atau terbolik-balik silsilah-nya,
 dan juga penulisan nama yang meragukan.
 Dalam usaha melengkapi, saya padukan dengan sumber lain,
 terutama buku silsilah keluarga.
