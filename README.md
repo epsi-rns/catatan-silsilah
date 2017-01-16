@@ -99,8 +99,8 @@ Bukan abangan, walapun sering dipanggil 'Bang'.<br/>
 Sejak lahir sudah jomblo.
 
 
-[01]: https://github.com/epsi-rns/catatan-silsilah/blob/master/01-rasulullah.md
-[02]: https://github.com/epsi-rns/catatan-silsilah/blob/master/02-abu-bakar.md
-[04]: https://github.com/epsi-rns/catatan-silsilah/blob/master/04-jaafar-as-sodiq.md
-[05]: https://github.com/epsi-rns/catatan-silsilah/blob/master/05-ubaidullah.md
-[07]: https://github.com/epsi-rns/catatan-silsilah/blob/master/07-al-faqih.md
+[01]: https://github.com/epsi-rns/catatan-silsilah/blob/master/jumadil/01-rasulullah.md
+[02]: https://github.com/epsi-rns/catatan-silsilah/blob/master/jumadil/02-abu-bakar.md
+[04]: https://github.com/epsi-rns/catatan-silsilah/blob/master/jumadil/04-jaafar-as-sodiq.md
+[05]: https://github.com/epsi-rns/catatan-silsilah/blob/master/jumadil/05-ubaidullah.md
+[07]: https://github.com/epsi-rns/catatan-silsilah/blob/master/jumadil/07-al-faqih.md
