@@ -42,17 +42,17 @@ Bagaimanapun, inilah catatan silsilah sebagai gambaran awal.
 
 *Wali*
 
-*	Sunan Gunung Jati
+*	[Sunan Gunung Jati][21]
 
-*	Sunan Kalijaga
+*	[Sunan Kalijaga][22]
 
-*	Jaka Tarub
+*	[Jaka Tarub][24]
 
-*	Syekh Siti Jenar
+*	[Syekh Siti Jenar][26]
 
 *Tokoh*
 
-*	Ki Ageng Saba
+*	[Ki Ageng Saba][28]
 
 
 ## Pangeran Mandura
@@ -104,3 +104,10 @@ Sejak lahir sudah jomblo.
 [04]: https://github.com/epsi-rns/catatan-silsilah/blob/master/jumadil/04-jaafar-as-sodiq.md
 [05]: https://github.com/epsi-rns/catatan-silsilah/blob/master/jumadil/05-ubaidullah.md
 [07]: https://github.com/epsi-rns/catatan-silsilah/blob/master/jumadil/07-al-faqih.md
+
+[21]: https://github.com/epsi-rns/catatan-silsilah/blob/master/jolang/21-sunan-gunung-jati.md
+[22]: https://github.com/epsi-rns/catatan-silsilah/blob/master/jolang/22-sunan-kalijaga.md
+[24]: https://github.com/epsi-rns/catatan-silsilah/blob/master/jolang/24-jaka-tarub.md
+[26]: https://github.com/epsi-rns/catatan-silsilah/blob/master/jolang/26-syekh-siti-jenar.md
+[28]: https://github.com/epsi-rns/catatan-silsilah/blob/master/jolang/28-ki-ageng-saba.md
+
