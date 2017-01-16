@@ -38,6 +38,15 @@ Bagaimanapun, inilah catatan silsilah sebagai gambaran awal.
 *	[Al Faqih - Jumadil Qubro][07]
 
 
+## Ringkasan dalam Diagram
+
+Secara ringkas, keturunan keduanya berkumpul ke dua leluhur berikut.
+
+*	Sunan Prabu Amangkurat Agung
+
+*	Kyai Gulu
+
+
 ## Raden Mas Jolang
 
 *Wali*
@@ -59,37 +68,31 @@ Bagaimanapun, inilah catatan silsilah sebagai gambaran awal.
 
 *Wali*
 
-*	Sunan Giri
+*	[Sunan Giri][11]
 
-*	Sunan Ampel
+*	[Sunan Ampel][13]
 
-*	Jaka Tarub
+*	[Jaka Tarub][15]
 
-*	Syekh Siti Jenar
+*	[Syekh Siti Jenar][16]
 
 *Tokoh*
 
-*	Pengging
+*	[Pengging][17]
 
-*	Ki Ageng Saba
+*	[Ki Ageng Saba][18]
 
-*	Raden Patah
-
-
-## Ringkasan dalam Diagram
-
-Secara ringkas, keturunan keduanya berkumpul ke dua leluhur berikut.
-
-*	Sunan Prabu Amangkurat Agung
-
-*	 Kyai Gulu
+*	[Raden Patah][19]
 
 
 ## Keturunan
 
 *	Keturunan Priyayi: Mataram
+	<br/>Sumber: Rodovid
 
 *	Keturunan Santri: Kaliyoso
+	<br/>Sumber: Silsilah Keluarga
+	<br/>Catatan: Hanya sebagian kecil yang telah dicatta ulang ke internet.
 
 
 ## Mengenai Penulis
@@ -111,3 +114,10 @@ Sejak lahir sudah jomblo.
 [26]: https://github.com/epsi-rns/catatan-silsilah/blob/master/jolang/26-syekh-siti-jenar.md
 [28]: https://github.com/epsi-rns/catatan-silsilah/blob/master/jolang/28-ki-ageng-saba.md
 
+[11]: https://github.com/epsi-rns/catatan-silsilah/blob/master/mandura/11-sunan-giri.md
+[13]: https://github.com/epsi-rns/catatan-silsilah/blob/master/mandura/13-sunan-ampel.md
+[15]: https://github.com/epsi-rns/catatan-silsilah/blob/master/mandura/15-jaka-tarub.md
+[16]: https://github.com/epsi-rns/catatan-silsilah/blob/master/mandura/16-syekh-siti-jenar.md
+[17]: https://github.com/epsi-rns/catatan-silsilah/blob/master/mandura/17-pengging.md
+[18]: https://github.com/epsi-rns/catatan-silsilah/blob/master/mandura/18-ki-ageng-saba.md
+[19]: https://github.com/epsi-rns/catatan-silsilah/blob/master/mandura/19-raden-patah.md
