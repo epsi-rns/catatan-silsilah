@@ -23,11 +23,24 @@
 
 *	» ♀ Waskita Jawi / Ratu Mas (Putri Waskita Jawi)
 
-*	» ♂ Panembahan Hadi Prabu Hanyokrowati
+*	» ♂ [Panembahan Hadi Prabu Hanyokrowati][26063]
 	<br/>/ (Raden Mas Jolang) (Panembahan Seda ing Krapyak)
+	<br/>( - 1613 M)
 
 Sumber: rodovid.org<br/>
 Catatan: sumber belum tentu benar.
 
 [359642]: http://id.rodovid.org/wk/Orang:359642
+
+[]: 
+[]: 
+
+[]: 
+
+[]: 
+[]: 
+[]: 
+[]: 
+
+[26063]: http://id.rodovid.org/wk/Orang:26063
 

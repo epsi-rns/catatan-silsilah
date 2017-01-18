@@ -57,7 +57,7 @@ Secara ringkas, keturunan keduanya berkumpul ke dua leluhur berikut.
 
 *	[Sunan Kalijaga][22]
 
-*	[Jaka Tarub][24]
+*	[Sunan Gresik][24]
 
 *	[Syekh Siti Jenar][26]
 
@@ -74,7 +74,7 @@ Secara ringkas, keturunan keduanya berkumpul ke dua leluhur berikut.
 
 *	[Sunan Ampel][13]
 
-*	[Jaka Tarub][15]
+*	[Sunan Gresik][15]
 
 *	[Syekh Siti Jenar][16]
 
