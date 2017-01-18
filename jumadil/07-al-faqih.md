@@ -12,7 +12,7 @@
 *	» ♂ [Asy Syaikh Sayyid Ahmad Syah Jalaluddin][364832]
 	<br/>(636 H - 711 H) Nasarabad, India
 
-*	» ♂ [Syaikh Maulana Jamaluddin Husein Akbar]:
+*	» ♂ [Syaikh Maulana Jamaluddin Husein Akbar][364829]
 	<br/>(1310 M - 1453 M) Malabar-Delhi-India
 
 Sumber: rodovid.org<br/>
