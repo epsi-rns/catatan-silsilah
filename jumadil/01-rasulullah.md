@@ -1,6 +1,6 @@
 ## Silsilah (Ja'afar As-Sodiq ke Nabi)
 
-*	» ♂ *[Nabi Muhammad SAW][28188] (Rasulullah)*
+*	» ♂ *[Nabi Muhammad SAW][28188]* *(Rasulullah)*
 
 *	» ♀ [Fatima Az Zahra][70257]
 	<br/>(600 M - 632 M)
