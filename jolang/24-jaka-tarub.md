@@ -1,6 +1,11 @@
 ## Silsilah (Raden Mas Jolang ke Jaka Tarub)
 
-*	» ♂ Asy. Sayyid Maulana Maliq Ibrahim
+*	» ♂ [Syaikh Maulana Jamaluddin Husein Akbar][359642]
+	<br/>(1310 M - 1453 M) Malabar-Delhi-India
+
+*	» ♂ *Sunan Gresik*
+	<br/>Asy. Sayyid Maulana Maliq Ibrahim
+	<br/>(1297 M - 1419 M) Samarqand, Uzbekistan
 
 *	» ♂ R. Kidang Telangkas (Jaka Tarub)
 	<br/>/ Abdurrahim Al-Maghribi
@@ -24,3 +29,5 @@
 
 Sumber: rodovid.org<br/>
 Catatan: sumber belum tentu benar.
+
+[359642]: http://id.rodovid.org/wk/Orang:359642

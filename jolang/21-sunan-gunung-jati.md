@@ -1,6 +1,6 @@
 ## Silsilah (Raden Mas Jolang ke Sunan Gunung Jati)
 
-*	» ♂ Syaikh Maulana Jamaluddin Husein Akbar
+*	» ♂ [Syaikh Maulana Jamaluddin Husein Akbar][359642]
 	<br/>(1310 M - 1453 M) Malabar-Delhi-India
 
 *	» ♂ Ali Nurul Alam
@@ -28,4 +28,6 @@
 
 Sumber: rodovid.org<br/>
 Catatan: sumber belum tentu benar.
+
+[359642]: http://id.rodovid.org/wk/Orang:359642
 

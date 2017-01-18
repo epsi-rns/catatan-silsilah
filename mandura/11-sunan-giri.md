@@ -1,13 +1,7 @@
 ## Silsilah (Pangeran Mandura ke Sunan Giri)
 
-*	» ♂ Asy Syaikh Sayyid Ahmad Syah Jalaluddin
-	<br/>(636 H - 711 H) Nasarabad, India
-
-*	» ♂ Syaikh Maulana Jamaluddin Husein Akbar
+*	» ♂ [Syaikh Maulana Jamaluddin Husein Akbar][359642]
 	<br/>(1310 M - 1453 M) Malabar-Delhi-India
-
-*	» ♂ Maulana Ibrahim Al-Hadrami Azmatkhan
-	<br/>(1325 M - ) Hadramaut
 
 *	» ♂ Maulana Ishaq
 
@@ -29,3 +23,5 @@
 
 Sumber: rodovid.org
 Catatan: sumber belum tentu benar.
+
+[359642]: http://id.rodovid.org/wk/Orang:359642

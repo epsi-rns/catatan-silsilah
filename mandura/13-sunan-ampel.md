@@ -1,13 +1,10 @@
 ## Silsilah (Pangeran Mandura ke Sunan Ampel)
 
-*	» ♂ Asy Syaikh Sayyid Ahmad Syah Jalaluddin
-	<br/>(636 H - 711 H) Nasarabad, India
-
-*	» ♂ Syaikh Maulana Jamaluddin Husein Akbar
+*	» ♂ [Syaikh Maulana Jamaluddin Husein Akbar][359642]
 	<br/>(1310 M - 1453 M) Malabar-Delhi-India
 
 *	» ♂ Maulana Ibrahim Al-Hadrami Azmatkhan
-	<br/>(1325 M - ) Hadramaut (Sunan Gresik)
+	<br/>(1325 M - ) Hadramaut
 
 *	» ♂ Ahmad Rahmatillah / *Sunan Ampel*
 	<br/>(1401 M - 1481 M) 
@@ -28,3 +25,5 @@
 
 Sumber: rodovid.org
 Catatan: sumber belum tentu benar.
+
+[359642]: http://id.rodovid.org/wk/Orang:359642

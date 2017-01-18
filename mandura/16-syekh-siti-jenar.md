@@ -1,6 +1,6 @@
 ## Silsilah (Pangeran Mandura ke Syekh Siti Jenar)
 
-*	» ♂ Asy Syaikh Sayyid Ahmad Syah Jalaluddin
+*	» ♂ [Asy Syaikh Sayyid Ahmad Syah Jalaluddin][364832]
 	<br/>(636 H - 711 H) Nasarabad, India
 
 *	» ♂ Maulana Isa
@@ -24,3 +24,5 @@
 
 Sumber: rodovid.org
 Catatan: sumber belum tentu benar.
+
+[364832]: http://id.rodovid.org/wk/Orang:364832
