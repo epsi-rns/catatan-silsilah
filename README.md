@@ -10,27 +10,15 @@
 
 *	Diagram Sisilah.
 
+*	Referensi
 
 ## Kata Pengantar
 
-Catatan silsilah adalah gambaran awal,
-supaya paham siapa jati diri kita.
-Bukan untuk dipamerkan, atau dibanggakan.
+*Disclaimer*: Catatan silsilah ini hanyalah gambaran,
+dan tidak dapat dijadikan acuan.
 
-Gagasan menulis silsilah ini berasal dari keingintahuan pribadi,
-yang dimulai dari meringkas silsilah mataram dari sumber Rodovid.org,
-salin-dan-tempel (copy-paste) satu-per-satu, ke notepad.
-Sayangnya sumber dari Rodovid ini kadangkala tidak akurat,
-yaitu kurang lengkap, atau terbolik-balik silsilah-nya,
-dan juga penulisan nama yang meragukan.
-Dalam usaha melengkapi, saya padukan dengan sumber lain,
-terutama buku silsilah keluarga.
-
-*Disclaimer*: catatan silsilah ini tidak dapat dijadikan acuan,
-karena tidak melalui studi akademis yang ilmiah,
-sehingga tidak dapat diketahui secara pasti nilai kebenarannya.
-Bilamana dibutuhkan untuk dijadikan acuan,
-silahkan untuk dikaji sendiri, lebih lanjut secara akademis.
+Penjelasan selengkapnya [Mengenai Catatan Silsilah][about]
+dapat dibaca bilamana tertarik.
 
 Bagaimanapun, inilah catatan silsilah sebagai gambaran awal.
 
@@ -102,7 +90,7 @@ Secara ringkas, keturunan keduanya berkumpul ke dua leluhur berikut.
 
 *	Keturunan Santri: Kaliyoso
 	<br/>Sumber: Silsilah Keluarga
-	<br/>Catatan: Hanya sebagian kecil yang telah dicatta ulang ke internet.
+	<br/>Catatan: Hanya sebagian kecil yang telah dicatat ulang ke internet (digitalisasi).
 
 
 ## Mengenai Penulis
@@ -111,6 +99,8 @@ Bukan Priyayi, bukan pula Santri.<br/>
 Bukan abangan, walapun sering dipanggil 'Bang'.<br/>
 Sejak lahir sudah jomblo.
 
+
+[about]: https://github.com/epsi-rns/catatan-silsilah/blob/master/about.md
 
 [01]: https://github.com/epsi-rns/catatan-silsilah/blob/master/jumadil/01-rasulullah.md
 [02]: https://github.com/epsi-rns/catatan-silsilah/blob/master/jumadil/02-abu-bakar.md
