@@ -1,4 +1,4 @@
-## Silsilah (Pangeran Mandura ke Jaka Tarub)
+## Silsilah (Pangeran Mandura ke Sunan Gresik)
 
 *	» ♂ [Syaikh Maulana Jamaluddin Husein Akbar][359642]
 	<br/>(1310 M - 1453 M) Malabar-Delhi-India

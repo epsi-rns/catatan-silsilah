@@ -1,4 +1,4 @@
-## Silsilah (Raden Mas Jolang ke Jaka Tarub)
+## Silsilah (Raden Mas Jolang ke Sunan Gresik)
 
 *	» ♂ [Syaikh Maulana Jamaluddin Husein Akbar][359642]
 	<br/>(1310 M - 1453 M) Malabar-Delhi-India
@@ -21,13 +21,27 @@
 *	» ♂ Ki Ageng Pemanahan
 	<br/>/ Bagus Kacung (Kyai Gede Mataram)
 
-*	» ♂ Kanjeng Panembahan Senopati
+*	» ♂ [Kanjeng Panembahan Senopati][25699]
 	<br/>/ (Sutowijoyo) (Raden Bagus Sutawijaya)
+	<br/>( - 1601 M)
 
-*	» ♂ Panembahan Hadi Prabu Hanyokrowati
+*	» ♂ [Panembahan Hadi Prabu Hanyokrowati][26063]
 	<br/>/ (Raden Mas Jolang) (Panembahan Seda ing Krapyak)
+	<br/>( - 1613 M)
 
 Sumber: rodovid.org<br/>
 Catatan: sumber belum tentu benar.
 
 [359642]: http://id.rodovid.org/wk/Orang:359642
+
+[]: 
+[]: 
+
+[]: 
+
+[]: 
+[]: 
+[]: 
+
+[25699]: http://id.rodovid.org/wk/Orang:25699
+[26063]: http://id.rodovid.org/wk/Orang:26063

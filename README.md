@@ -4,7 +4,7 @@
 
 *	Rodovid Link
 
-*	Recheck Text, Suna Gresik
+*	Recheck Text, Syekh Siti Jenar
 
 *	Navigasi 
 
