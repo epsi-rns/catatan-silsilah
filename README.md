@@ -96,6 +96,19 @@ Secara ringkas, keturunan keduanya berkumpul ke dua leluhur berikut.
 *	[Raden Patah][19] (Menantu Sunan Ampel)
 
 
+## Persilangan
+
+Persilangan keduanya berkumpul sebagai berikut.
+
+*	[Raden Mas Jolang - Amangkurat][31]
+
+*	[Pangeran Mandura - Amangkurat][32]
+
+*	[Raden Mas Jolang - Kyai Gulu][33]
+
+*	[Pangeran Mandura - Kyai Gulu][34]
+
+
 ## Keturunan
 
 *	Keturunan Priyayi: Mataram
@@ -133,3 +146,8 @@ Sejak lahir sudah jomblo.
 [16]: https://github.com/epsi-rns/catatan-silsilah/blob/master/mandura/16-syekh-siti-jenar.md
 [17]: https://github.com/epsi-rns/catatan-silsilah/blob/master/mandura/17-pengging.md
 [19]: https://github.com/epsi-rns/catatan-silsilah/blob/master/mandura/19-raden-patah.md
+
+[31]: https://github.com/epsi-rns/catatan-silsilah/blob/master/silang/31-jolang-amangkurat.md
+[32]: https://github.com/epsi-rns/catatan-silsilah/blob/master/silang/32-mandura-amangkurat.md
+[33]: https://github.com/epsi-rns/catatan-silsilah/blob/master/silang/33-jolang-gulu.md
+[34]: https://github.com/epsi-rns/catatan-silsilah/blob/master/silang/34-mandura-gulu.md
