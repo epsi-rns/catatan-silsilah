@@ -55,36 +55,32 @@ Secara ringkas, keturunan keduanya berkumpul ke dua leluhur berikut.
 
 *Wali*
 
-*	[Sunan Gunung Jati][21]
+*	[Sunan Giri][21] (Lewat Ki Ageng Saba)
 
-*	[Sunan Kalijaga][22]
+*	[Sunan Gunung Jati][22]
 
-*	[Sunan Gresik][24]
+*	[Sunan Kalijaga][23]
+
+*	[Sunan Gresik][24] (Bapak dari Jaka Tarub)
 
 *	[Syekh Siti Jenar][26]
-
-*Tokoh*
-
-*	[Ki Ageng Saba][28]
 
 
 ## Pangeran Mandura
 
 *Wali*
 
-*	[Sunan Giri][11]
+*	[Sunan Giri][11] (Lewat Ki Ageng Saba)
 
 *	[Sunan Ampel][13]
 
-*	[Sunan Gresik][15]
+*	[Sunan Gresik][15] (Bapak dari Jaka Tarub)
 
 *	[Syekh Siti Jenar][16]
 
 *Tokoh*
 
-*	[Pengging][17]
-
-*	[Ki Ageng Saba][18]
+*	[Pengging][17] (Putra Jumadil Qubro)
 
 *	[Raden Patah][19] (Menantu Sunan Ampel)
 
@@ -114,16 +110,15 @@ Sejak lahir sudah jomblo.
 [05]: https://github.com/epsi-rns/catatan-silsilah/blob/master/jumadil/05-ubaidullah.md
 [07]: https://github.com/epsi-rns/catatan-silsilah/blob/master/jumadil/07-al-faqih.md
 
-[21]: https://github.com/epsi-rns/catatan-silsilah/blob/master/jolang/21-sunan-gunung-jati.md
-[22]: https://github.com/epsi-rns/catatan-silsilah/blob/master/jolang/22-sunan-kalijaga.md
+[21]: https://github.com/epsi-rns/catatan-silsilah/blob/master/jolang/21-sunan-giri.md
+[22]: https://github.com/epsi-rns/catatan-silsilah/blob/master/jolang/22-sunan-gunung-jati.md
+[23]: https://github.com/epsi-rns/catatan-silsilah/blob/master/jolang/23-sunan-kalijaga.md
 [24]: https://github.com/epsi-rns/catatan-silsilah/blob/master/jolang/24-sunan-gresik.md
 [26]: https://github.com/epsi-rns/catatan-silsilah/blob/master/jolang/26-syekh-siti-jenar.md
-[28]: https://github.com/epsi-rns/catatan-silsilah/blob/master/jolang/28-ki-ageng-saba.md
 
 [11]: https://github.com/epsi-rns/catatan-silsilah/blob/master/mandura/11-sunan-giri.md
 [13]: https://github.com/epsi-rns/catatan-silsilah/blob/master/mandura/13-sunan-ampel.md
 [15]: https://github.com/epsi-rns/catatan-silsilah/blob/master/mandura/15-sunan-gresik.md
 [16]: https://github.com/epsi-rns/catatan-silsilah/blob/master/mandura/16-syekh-siti-jenar.md
 [17]: https://github.com/epsi-rns/catatan-silsilah/blob/master/mandura/17-pengging.md
-[18]: https://github.com/epsi-rns/catatan-silsilah/blob/master/mandura/18-ki-ageng-saba.md
 [19]: https://github.com/epsi-rns/catatan-silsilah/blob/master/mandura/19-raden-patah.md
