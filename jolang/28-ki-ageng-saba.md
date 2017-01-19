@@ -1,9 +1,9 @@
 ## Silsilah (Raden Mas Jolang ke Ki Ageng Saba)
 
-*	» ♂ Ki Ageng Saba
+*	» ♂ [Ki Ageng Saba][70422]
 	<br/>(Ki Ageng Pakeringan Pangeran Haryo Sobo)
 
-*	» ♀ Nyai Ageng Pamanahan / Nyai Sabinah
+*	» ♀ [Nyai Ageng Pamanahan][70421] / Nyai Sabinah
 
 *	» ♂ [Kanjeng Panembahan Senopati][25699]
 	<br/>/ (Sutowijoyo) (Raden Bagus Sutawijaya)
@@ -16,15 +16,8 @@
 Sumber: rodovid.org<br/>
 Catatan: sumber belum tentu benar.
 
-[]: 
-[]: 
-
-[]: 
-
-[]: 
-[]: 
-[]: 
-[]: 
+[70422]: http://id.rodovid.org/wk/Orang:70422
+[70421]: http://id.rodovid.org/wk/Orang:70421
 
 [25699]: http://id.rodovid.org/wk/Orang:25699
 [26063]: http://id.rodovid.org/wk/Orang:26063

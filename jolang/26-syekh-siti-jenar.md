@@ -9,14 +9,14 @@
 *	» ♂ [Datuk Shalih][388403] [(Asy Seikh Datuk Sholeh)][861003]
 
 *	» ♂ *[Syekh Siti Jenar][388405]*
-	<br/>/ [Abdul Jalil][851249] (1404 - ), Persia
+	<br/>/ [Abdul Jalil][851249] (1404 M - ), Persia
 
 *	» ♀ [Syarifah Zainab / Nyai Zaenab][391484]
 
 *	» ♀ [Nyai Ratu Mandoko][391483]
 
 *	» ♂ [Muhammad Hadi][26353] (Joko Tingkir)
-	<br/>[Pajang]
+	<br/>Pajang
 
 *	» ♂ [Pangeran Benawa][332044] / Sultan Prabuwijaya (AbdulHalim)
 	<br/>( - 1587 M), Pajang
