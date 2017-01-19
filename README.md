@@ -2,15 +2,11 @@
 
 ## To Do (belum selesai)
 
-*	Rodovid Link
-
-*	Navigasi 
+*	Navigasi dan typo sumber-catatan.
 
 *	Mataram Link with Rodovid Link.
 
 *	Kalioso Link
-
-*	Diagram Sisilah.
 
 *	Referensi
 
@@ -49,6 +45,8 @@ Secara ringkas, keturunan keduanya berkumpul ke dua leluhur berikut.
 *	Sunan Prabu Amangkurat Agung
 
 *	Kyai Gulu
+
+![Ringkasan dalam Diagram][diagram]
 
 
 ## Raden Mas Jolang
@@ -133,6 +131,8 @@ Sejak lahir sudah jomblo.
 [04]: https://github.com/epsi-rns/catatan-silsilah/blob/master/jumadil/04-jaafar-as-sodiq.md
 [05]: https://github.com/epsi-rns/catatan-silsilah/blob/master/jumadil/05-ubaidullah.md
 [07]: https://github.com/epsi-rns/catatan-silsilah/blob/master/jumadil/07-al-faqih.md
+
+[diagram]: https://github.com/epsi-rns/catatan-silsilah/blob/master/source/svg/diagram.png
 
 [21]: https://github.com/epsi-rns/catatan-silsilah/blob/master/jolang/21-sunan-gresik.md
 [22]: https://github.com/epsi-rns/catatan-silsilah/blob/master/jolang/22-sunan-giri.md
