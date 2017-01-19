@@ -4,8 +4,6 @@
 
 *	Rodovid Link
 
-*	Recheck Text, Syekh Siti Jenar
-
 *	Navigasi 
 
 *	Mataram Link with Rodovid Link.
@@ -18,11 +16,15 @@
 
 ## Kata Pengantar
 
-*Disclaimer*: Catatan silsilah ini hanyalah gambaran,
-dan tidak dapat dijadikan acuan.
+Kesultanan Mataram dibangun dari hasil kawin-mawin,
+yang rapat antara keturunan para wali dari jalur ulama Jumadil Qubro.
 
 Penjelasan selengkapnya [Mengenai Catatan Silsilah][about]
 dapat dibaca bilamana tertarik.
+
+*Disclaimer*: Catatan silsilah ini hanyalah gambaran,
+dan tidak dapat dijadikan acuan sejarah.
+
 
 Bagaimanapun, inilah catatan silsilah sebagai gambaran awal.
 
@@ -84,7 +86,7 @@ Secara ringkas, keturunan keduanya berkumpul ke dua leluhur berikut.
 
 *	[Ki Ageng Saba][18]
 
-*	[Raden Patah][19]
+*	[Raden Patah][19] (Menantu Sunan Ampel)
 
 
 ## Keturunan

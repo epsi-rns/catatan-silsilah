@@ -1,4 +1,4 @@
-## Silsilah (Raden Mas Jolang ke Syekh Siti Jenar)
+## Silsilah (Raden Mas Rangsang ke Syekh Siti Jenar)
 
 *	» ♂ [Asy Syaikh Sayyid Ahmad Syah Jalaluddin][359646]
 	<br/>/ [Ahmad Syah Jalal (Jalaluddin Khan)][364832]
