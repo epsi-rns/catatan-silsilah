@@ -9,7 +9,7 @@ Jalur Bapak
 	<br/>/ (Raden Mas Djatmika) (Raden Mas Rangsang)
 	<br/>(1593 M - 1645 M)
 
-	» ♂ [Sunan Prabu Amangkurat Agung][26073]
+*	» ♂ [Sunan Prabu Amangkurat Agung][26073]
 	<br/>/ (Susuhunan Ing Alaga) (Raden Mas Sayidin),
 	<br/>(1619 M - 1677 M)
 

@@ -3,13 +3,13 @@ Jalur Bapak
 
 *	» ♂ [Pangeran Mandura][771620]
 
-	» ♂ [Pangeran Adipati Mandurareja][856186]
+*	» ♂ [Pangeran Adipati Mandurareja][856186]
 	<br/>(Adipati Mandurorejo Kaliwungu)
 
-	» ♂ [Raden Mas Tumenggung Karto Nagoro][925660]
+*	» ♂ [Raden Mas Tumenggung Karto Nagoro][925660]
 	<br/>/ Ki Ageng Ketib Grobogan/ Ki Ageng Ketib Pati
 
-	» ♂ [Kyai Gulu][925662]
+*	» ♂ [Kyai Gulu][925662]
 	<br/>/ Ki Ageng Gulu/ Panggulu di Lawean
 
 Sumber: rodovid.org

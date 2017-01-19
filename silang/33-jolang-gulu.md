@@ -5,11 +5,11 @@ Jalur Ibu
 	<br/>/ (Raden Mas Jolang) (Panembahan Seda ing Krapyak)
 	<br/>( - 1613 M)
 
-	» ♀ [Kanjeng Ratu Mas Sekar][663635]
+*	» ♀ [Kanjeng Ratu Mas Sekar][663635]
 
-	» ♀ [Raden Ayu Ketib Grobogan][895036]
+*	» ♀ [Raden Ayu Ketib Grobogan][895036]
 
-	» ♂ [Kyai Gulu][925662]
+*	» ♂ [Kyai Gulu][925662]
 	<br/>/ Ki Ageng Gulu/ Panggulu di Lawean
 
 Sumber 1: rodovid.org
