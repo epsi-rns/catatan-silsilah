@@ -116,13 +116,13 @@ Sejak lahir sudah jomblo.
 
 [21]: https://github.com/epsi-rns/catatan-silsilah/blob/master/jolang/21-sunan-gunung-jati.md
 [22]: https://github.com/epsi-rns/catatan-silsilah/blob/master/jolang/22-sunan-kalijaga.md
-[24]: https://github.com/epsi-rns/catatan-silsilah/blob/master/jolang/24-jaka-tarub.md
+[24]: https://github.com/epsi-rns/catatan-silsilah/blob/master/jolang/24-sunan-gresik.md
 [26]: https://github.com/epsi-rns/catatan-silsilah/blob/master/jolang/26-syekh-siti-jenar.md
 [28]: https://github.com/epsi-rns/catatan-silsilah/blob/master/jolang/28-ki-ageng-saba.md
 
 [11]: https://github.com/epsi-rns/catatan-silsilah/blob/master/mandura/11-sunan-giri.md
 [13]: https://github.com/epsi-rns/catatan-silsilah/blob/master/mandura/13-sunan-ampel.md
-[15]: https://github.com/epsi-rns/catatan-silsilah/blob/master/mandura/15-jaka-tarub.md
+[15]: https://github.com/epsi-rns/catatan-silsilah/blob/master/mandura/15-sunan-gresik.md
 [16]: https://github.com/epsi-rns/catatan-silsilah/blob/master/mandura/16-syekh-siti-jenar.md
 [17]: https://github.com/epsi-rns/catatan-silsilah/blob/master/mandura/17-pengging.md
 [18]: https://github.com/epsi-rns/catatan-silsilah/blob/master/mandura/18-ki-ageng-saba.md
