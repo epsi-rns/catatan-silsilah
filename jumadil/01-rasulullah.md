@@ -1,3 +1,7 @@
+## Navigasi
+
+[Halaman Utama][up] 
+
 ## Silsilah (Ja'afar As-Sodiq ke Nabi)
 
 *	» ♂ *[Nabi Muhammad SAW][28188]* *(Rasulullah)*
@@ -19,6 +23,8 @@
 
 Sumber: rodovid.org<br/>
 Catatan: sumber belum tentu benar.
+
+[up]: https://github.com/epsi-rns/catatan-silsilah/blob/master/README.md
 
 [28188]: http://id.rodovid.org/wk/Orang:28188
 [70257]: http://id.rodovid.org/wk/Orang:70257

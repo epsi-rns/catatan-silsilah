@@ -19,7 +19,7 @@
 *	» ♂ [Syaikh Maulana Jamaluddin Husein Akbar][359642]/ [Syeh Jumadil Kubro][364829]
 	<br/>(1310 M - 1453 M) Malabar-Delhi-India
 
-Sumber: rodovid.org<br/>.
+Sumber: rodovid.org<br/>
 Catatan: sumber belum tentu benar.
 
 [up]: https://github.com/epsi-rns/catatan-silsilah/blob/master/README.md

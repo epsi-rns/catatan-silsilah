@@ -1,3 +1,7 @@
+## Navigasi
+
+[Halaman Utama][up] 
+
 ## Silsilah (Ubaidullah ke Ja'afar As-Sodiq)
 
 *	» ♂ [Ja'afar As-Sodiq][70246]
@@ -21,7 +25,9 @@
 Sumber: rodovid.org<br/>
 Catatan: sumber belum tentu benar.
 
-[70246]: http://id.rodovid.org/wk/Orang:70246
+[up]: https://github.com/epsi-rns/catatan-silsilah/blob/master/README.md
+
+[70246]:  http://id.rodovid.org/wk/Orang:70246
 [359677]: http://id.rodovid.org/wk/Orang:359677
 [359676]: http://id.rodovid.org/wk/Orang:359676
 [359675]: http://id.rodovid.org/wk/Orang:359675

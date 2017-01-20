@@ -1,3 +1,7 @@
+## Navigasi
+
+[Halaman Utama][up] 
+
 ## Silsilah (Ja'afar As-Sodiq ke Abu Bakar RA)
 
 *	» ♂ [Abu Bakar Shiddiq RA][623359]
@@ -14,6 +18,8 @@
 Sumber: rodovid.org<br/>
 Catatan: sumber belum tentu benar.
 
+[up]: https://github.com/epsi-rns/catatan-silsilah/blob/master/README.md
+
 [623359]: http://id.rodovid.org/wk/Orang:623359
 [623358]: http://id.rodovid.org/wk/Orang:623358
 
@@ -23,4 +29,4 @@ Catatan: sumber belum tentu benar.
 [623356]: http://id.rodovid.org/wk/Orang:623356
 [103786]: http://id.rodovid.org/wk/Orang:103786
 
-[70246]: http://id.rodovid.org/wk/Orang:70246
+[70246]:  http://id.rodovid.org/wk/Orang:70246
