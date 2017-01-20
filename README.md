@@ -2,9 +2,9 @@
 
 ## To Do (belum selesai)
 
-*	Mataram Link with Rodovid Link.
+*	Diagram Mataram
 
-*	Kalioso Link
+*	Kalioso Link, with Diagram
 
 *	Perang Diponegoro: Diponegoro, Pakubuwono VI, Sentot Ali Pasha, Kyai Maja, Kyai Abdul Jalal
 
@@ -75,7 +75,7 @@ Lalu keturunan keduanya berkumpul kembali ke dua leluhur berikut.
 *Tambahan*
 
 *	[Syekh Siti Jenar][26]
-	<br/>Catatan: Lewat istri Raden Mas Jolang ke Raden Mas Rangsang, bukan leluhur Raden Mas Jolang.
+	<br/>Catatan: Lewat istri Raden Mas Jolang ke Raden Mas Rangsang (Sultan Agung), bukan leluhur Raden Mas Jolang.
 
 
 ## Pangeran Mandura
@@ -114,10 +114,22 @@ Persilangan keduanya berkumpul sebagai berikut.
 *	[Pangeran Mandura - Kyai Gulu][34]
 
 
-## Keturunan
+## Keturunan Priyayi: Mataram
 
-*	Keturunan Priyayi: Mataram
-	<br/>Sumber: Rodovid
+Sumber: Rodovid
+
+*	[Pendiri][41]
+
+*	[Pakubuwono][42]
+
+*	[Hamengkubuwono][43]
+
+*	[Mangkunegara][44]
+
+*	[Pakualam][45]
+
+
+## Keturunan Santri: Kaliyoso
 
 *	Keturunan Santri: Kaliyoso
 	<br/>Sumber: Silsilah Keluarga
@@ -158,3 +170,9 @@ Sejak lahir sudah jomblo.
 [32]: https://github.com/epsi-rns/catatan-silsilah/blob/master/silang/32-mandura-amangkurat.md
 [33]: https://github.com/epsi-rns/catatan-silsilah/blob/master/silang/33-jolang-gulu.md
 [34]: https://github.com/epsi-rns/catatan-silsilah/blob/master/silang/34-mandura-gulu.md
+
+[41]: https://github.com/epsi-rns/catatan-silsilah/blob/master/mataram/41-amangkurat.md
+[42]: https://github.com/epsi-rns/catatan-silsilah/blob/master/mataram/42-pakubuwono.md
+[43]: https://github.com/epsi-rns/catatan-silsilah/blob/master/mataram/43-hamengkubuwono.md
+[44]: https://github.com/epsi-rns/catatan-silsilah/blob/master/mataram/44-mangkunegara.md
+[45]: https://github.com/epsi-rns/catatan-silsilah/blob/master/mataram/45-pakualam.md

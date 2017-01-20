@@ -1,57 +1,85 @@
-Silsilah Mangkunegara
+## Navigasi
 
-» ♂ Prabu Amangkurat IV (Mangkurat Jawi) 
-/ (Raden Mas Suryaputra) (Prabu Mangkurat Jawa)
+[Halaman Utama][up] 
 
-» ♂ Gusti Kanjeng Pangeran Haryo Mangkunegara 
-bin Prabu Amangkurat IV
-/ (Gusti Pangeran Pancuran) (Gusti Pangeran Riyo)
-kelahiran: 1703
+## Silsilah Mangkunegara
 
-» ♂ Kanjeng Gusti Pangeran Adipati Aria Mangkunegara I 
-bin GKP Haryo Mangkunegara
-/ (Pangeran Sambernyawa) (Raden Mas Said)
+*	» ♂ [Prabu Amangkurat IV][354667] (Mangkurat Jawi)
+	<br/>/ (Raden Mas Suryaputra) (Prabu Mangkurat Jawa)
 
-» ♂ Pangeran Hario Prabuamijoyo
-~ bin PA II
+*	» ♂ [Gusti Kanjeng Pangeran Haryo Mangkunegara][26095]
+	<br/>bin Prabu Amangkurat IV
+	<br/>/ (Gusti Pangeran Pancuran) (Gusti Pangeran Riyo)
+	<br/>kelahiran: 1703
 
-» ♂ Kanjeng Gusti Pangeran Adipati Ario Mangkunegara II 
-~ bin Pangeran Hario Prabuamijoyo
-(Th:1796-1835)
+*	» ♂ Kanjeng Gusti Pangeran Adipati Aria [Mangkunegara I][169963]
+	<br/>bin GKP Haryo Mangkunegara
+	<br/>/ (Pangeran Sambernyawa) (Raden Mas Said)
 
-» ♀ Raden Kanjeng Ayu Suyati / Raden Ayu Notokusumo
-~ bin PA II
+*	» ♂ [Pangeran Hario Prabuamijoyo][26101]
+	<br/>~ bin MN I
 
-» ♂ Kanjeng Gusti Pangeran Adipati Ario Mangkunegara III 
-putra Raden Kanjeng Ayu Suyati 
-(Th:1835-1853)
-kelahiran: 16 Januari 1803
+*	» ♂ Kanjeng Gusti Pangeran Adipati [Ario Mangkunegara II][26100] 
+	<br/>~ bin Pangeran Hario Prabuamijoyo
+	<br/>(Th:1796-1835)
 
-» ♂ Kanjeng Gusti Pangeran Adipati Ario Mangkunegara IV 
-bin MN III
-(Th:1853-1881)
+*	» ♀ Raden Kanjeng Ayu Suyati / [Raden Ayu Notokusumo][26120]
+	<br/>~ bin PA II
 
-» ♂ Kanjeng Gusti Pangeran Adipati Ario Mangkunegara V 
-bin MN IV
-(Th:1881-1896)
+*	» ♂ Kanjeng Gusti Pangeran Adipati Ario [Mangkunegara III][26104]
+	<br/>putra Raden Kanjeng Ayu Suyati 
+	<br/>(Th:1835-1853)
+	<br/>kelahiran: 16 Januari 1803
 
-» ♂ Kanjeng Gusti Pangeran Adipati Ario Mangkunegara VI 
-bin MN IV
-(Th:1896-1916)
+*	» ♂ Kanjeng Gusti Pangeran Adipati Ario [Mangkunegara IV][26107]
+	<br/>bin MN III
+	<br/>(Th:1853-1881)
 
-» ♂ Kanjeng Gusti Pangeran Adipati Ario Mangkunegara VII 
-bin MN V
-(Th:1916-1944)
-kelahiran: 15 Agustus 1855
+*	» ♂ Kanjeng Gusti Pangeran Adipati Ario [Mangkunegara V][26116]
+	<br/>bin MN IV
+	<br/>(Th:1881-1896)
 
-» ♂ Kanjeng Gusti Pangeran Adipati Ario Mangkunegara VIII
-bin MN VII
-(Th:1944-1987)
+*	» ♂ Kanjeng Gusti Pangeran Adipati Ario [Mangkunegara VI][26117]
+	<br/>bin MN IV
+	<br/>(Th:1896-1916)
 
-» ♂ Kanjeng Gusti Pangeran Adipati Arya Mangkunegara IX 
-bin MN VIII
-/ (Gusti Pangeran Haryo Sujiwokusuma)
-kelahiran: 18 Agustus 1951
+*	» ♂ Kanjeng Gusti Pangeran Adipati Ario [Mangkunegara VII][26118]
+	<br/>bin MN V
+	<br/>(Th:1916-1944)
+	<br/>kelahiran: 15 Agustus 1855
 
-Sumber: rodovid.org
+*	» ♂ Kanjeng Gusti Pangeran Adipati Ario [Mangkunegara VIII][26119]
+	<br/>bin MN VII
+	<br/>(Th:1944-1987)
+
+*	» ♂ Kanjeng Gusti Pangeran Adipati Arya [Mangkunegara IX][416571]
+	<br/>bin MN VIII
+	<br/>/ (Gusti Pangeran Haryo Sujiwokusuma)
+	<br/>kelahiran: 18 Agustus 1951
+
+
+Sumber: rodovid.org<br/>
 Catatan: sumber belum tentu benar.
+
+[up]: https://github.com/epsi-rns/catatan-silsilah/blob/master/README.md
+
+[354667]: http://id.rodovid.org/wk/Orang:354667
+
+[26095]: http://id.rodovid.org/wk/Orang:26095
+
+[169963]: http://id.rodovid.org/wk/Orang:169963
+[26101]:  http://id.rodovid.org/wk/Orang:26101
+
+[26100]:  http://id.rodovid.org/wk/Orang:26100 
+[26120]:  http://id.rodovid.org/wk/Orang:26120
+
+[26104]:  http://id.rodovid.org/wk/Orang:26104
+[26107]:  http://id.rodovid.org/wk/Orang:26107
+
+[26116]:  http://id.rodovid.org/wk/Orang:26116
+[26117]:  http://id.rodovid.org/wk/Orang:26117
+[26118]:  http://id.rodovid.org/wk/Orang:26118
+[26119]:  http://id.rodovid.org/wk/Orang:26119
+
+[416571]: http://id.rodovid.org/wk/Orang:416571
+
