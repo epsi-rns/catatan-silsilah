@@ -40,11 +40,18 @@ Bagaimanapun, inilah catatan silsilah sebagai gambaran awal.
 
 ## Ringkasan dalam Diagram
 
-Secara ringkas, keturunan keduanya berkumpul ke dua leluhur berikut.
+Secara ringkas, keturunan Jumadil Qubro berkumpul ke dua leluhur berikut.
+
+*	Raden Mas Jolang
+
+*	Pangeran Mandura
+
+Lalu keturunan keduanya berkumpul kembali ke dua leluhur berikut.
 
 *	Sunan Prabu Amangkurat Agung
 
 *	Kyai Gulu
+
 
 ![Ringkasan dalam Diagram][diagram]
 
