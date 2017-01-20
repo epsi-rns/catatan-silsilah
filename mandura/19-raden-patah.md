@@ -1,3 +1,7 @@
+## Navigasi
+
+[Halaman Utama][up] 
+
 ## Silsilah (Pangeran Mandura ke Raden Patah)
 
 *	» ♂ [Raden Patah][25683]
@@ -15,8 +19,10 @@
 
 *	» ♂ [Pangeran Mandura][771620]
 
-Sumber: rodovid.org
+Sumber: rodovid.org<br/>
 Catatan: sumber belum tentu benar.
+
+[up]: https://github.com/epsi-rns/catatan-silsilah/blob/master/README.md
 
 [25683]: http://id.rodovid.org/wk/Orang:25683
 [26355]: http://id.rodovid.org/wk/Orang:26355

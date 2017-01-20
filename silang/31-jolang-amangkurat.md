@@ -1,3 +1,7 @@
+## Navigasi
+
+[Halaman Utama][up] 
+
 Silsilah (Amangkurat ke Raden Mas Jolang)
 Jalur Bapak
 
@@ -13,8 +17,10 @@ Jalur Bapak
 	<br/>/ (Susuhunan Ing Alaga) (Raden Mas Sayidin),
 	<br/>(1619 M - 1677 M)
 
-Sumber: rodovid.org
+Sumber: rodovid.org<br/>
 Catatan: sumber belum tentu benar.
+
+[up]: https://github.com/epsi-rns/catatan-silsilah/blob/master/README.md
 
 [26063]: http://id.rodovid.org/wk/Orang:26063
 [26069]: http://id.rodovid.org/wk/Orang:26069

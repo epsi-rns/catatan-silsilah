@@ -1,3 +1,7 @@
+## Navigasi
+
+[Halaman Utama][up] 
+
 ## Silsilah (Pangeran Mandura ke Syekh Siti Jenar)
 
 *	» ♂ [Asy Syaikh Sayyid Ahmad Syah Jalaluddin][359646]
@@ -23,8 +27,10 @@
 
 *	» ♂ [Pangeran Mandura][771620]
 
-Sumber: rodovid.org
+Sumber: rodovid.org<br/>
 Catatan: sumber belum tentu benar.
+
+[up]: https://github.com/epsi-rns/catatan-silsilah/blob/master/README.md
 
 [359646]: http://id.rodovid.org/wk/Orang:359646
 [364832]: http://id.rodovid.org/wk/Orang:364832

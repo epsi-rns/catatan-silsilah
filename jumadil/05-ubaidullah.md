@@ -1,3 +1,7 @@
+## Navigasi
+
+[Halaman Utama][up] 
+
 ## Silsilah (Al Faqih ke Ubaidullah)
 
 *	» ♂ [Ubaidullah][359673]
@@ -43,6 +47,8 @@ atau
 
 Sumber: rodovid.org<br/>
 Catatan: sumber belum tentu benar.
+
+[up]: https://github.com/epsi-rns/catatan-silsilah/blob/master/README.md
 
 [359673]: http://id.rodovid.org/wk/Orang:359673
 

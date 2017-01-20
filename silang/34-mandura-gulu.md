@@ -1,3 +1,7 @@
+## Navigasi
+
+[Halaman Utama][up] 
+
 Silsilah (Kyai Gulu ke Pangeran Mandura)
 Jalur Bapak
 
@@ -12,8 +16,10 @@ Jalur Bapak
 *	» ♂ [Kyai Gulu][925662]
 	<br/>/ Ki Ageng Gulu/ Panggulu di Lawean
 
-Sumber: rodovid.org
+Sumber: rodovid.org<br/>
 Catatan: sumber belum tentu benar.
+
+[up]: https://github.com/epsi-rns/catatan-silsilah/blob/master/README.md
 
 [771620]: http://id.rodovid.org/wk/Orang:771620
 [856186]: http://id.rodovid.org/wk/Orang:856186

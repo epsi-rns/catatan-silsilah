@@ -2,8 +2,6 @@
 
 ## To Do (belum selesai)
 
-*	Navigasi dan typo sumber-catatan.
-
 *	Mataram Link with Rodovid Link.
 
 *	Kalioso Link

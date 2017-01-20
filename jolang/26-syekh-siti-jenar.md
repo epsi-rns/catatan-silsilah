@@ -1,3 +1,7 @@
+## Navigasi
+
+[Halaman Utama][up] 
+
 ## Silsilah (Raden Mas Rangsang ke Syekh Siti Jenar)
 
 *	» ♂ [Asy Syaikh Sayyid Ahmad Syah Jalaluddin][359646]
@@ -29,6 +33,8 @@
 
 Sumber: rodovid.org<br/>
 Catatan: sumber belum tentu benar.
+
+[up]: https://github.com/epsi-rns/catatan-silsilah/blob/master/README.md
 
 [359646]: http://id.rodovid.org/wk/Orang:359646
 [364832]: http://id.rodovid.org/wk/Orang:364832

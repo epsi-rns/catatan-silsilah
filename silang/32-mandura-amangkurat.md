@@ -1,3 +1,7 @@
+## Navigasi
+
+[Halaman Utama][up] 
+
 Silsilah (Amangkurat ke Pangeran Mandura)
 Jalur Ibu
 
@@ -12,9 +16,10 @@ Jalur Ibu
 	<br/>/ (Susuhunan Ing Alaga) (Raden Mas Sayidin),
 	<br/>(1619 M - 1677 M)
 
-
-Sumber: rodovid.org
+Sumber: rodovid.org<br/>
 Catatan: sumber belum tentu benar.
+
+[up]: https://github.com/epsi-rns/catatan-silsilah/blob/master/README.md
 
 [771620]: http://id.rodovid.org/wk/Orang:771620
 [849411]: http://id.rodovid.org/wk/Orang:849411

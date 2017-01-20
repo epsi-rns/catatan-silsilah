@@ -1,3 +1,7 @@
+## Navigasi
+
+[Halaman Utama][up] 
+
 ## Silsilah (Raden Mas Jolang ke Sunan Gresik)
 
 *	» ♂ [Syaikh Maulana Jamaluddin Husein Akbar][359642]
@@ -37,6 +41,8 @@
 
 Sumber: rodovid.org<br/>
 Catatan: sumber belum tentu benar.
+
+[up]: https://github.com/epsi-rns/catatan-silsilah/blob/master/README.md
 
 [359642]: http://id.rodovid.org/wk/Orang:359642
 

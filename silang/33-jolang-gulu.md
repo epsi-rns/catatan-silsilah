@@ -1,3 +1,7 @@
+## Navigasi
+
+[Halaman Utama][up] 
+
 Silsilah (Kyai Gulu ke Raden Mas Jolang)
 Jalur Ibu
 
@@ -12,13 +16,15 @@ Jalur Ibu
 *	» ♂ [Kyai Gulu][925662]
 	<br/>/ Ki Ageng Gulu/ Panggulu di Lawean
 
-Sumber 1: rodovid.org
+Sumber 1: rodovid.org<br/>
 Catatan: sumber belum tentu benar.
 
 Sumber 2: Buku Silsilah Gitodipuro 1996
 yang disusun oleh Eyang Siti Lestari Ponodiningrat
 
 Sumber 3: Buku Silsilah Kaliyoso
+
+[up]: https://github.com/epsi-rns/catatan-silsilah/blob/master/README.md
 
 [26063]: http://id.rodovid.org/wk/Orang:26063
 [663635]: http://id.rodovid.org/wk/Orang:663635
