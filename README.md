@@ -8,6 +8,8 @@
 
 *	Kalioso Link
 
+*	Perang Diponegoro: Diponegoro, Pakubuwono VI, Sentot Ali Pasha, Kyai Maja, Kyai Abdul Jalal
+
 *	Referensi
 
 ## Kata Pengantar
@@ -132,7 +134,7 @@ Sejak lahir sudah jomblo.
 [05]: https://github.com/epsi-rns/catatan-silsilah/blob/master/jumadil/05-ubaidullah.md
 [07]: https://github.com/epsi-rns/catatan-silsilah/blob/master/jumadil/07-al-faqih.md
 
-[diagram]: https://github.com/epsi-rns/catatan-silsilah/blob/master/source/svg/diagram.png
+[diagram]: https://github.com/epsi-rns/catatan-silsilah/blob/master/source/svg/jumadil-qubro.png
 
 [21]: https://github.com/epsi-rns/catatan-silsilah/blob/master/jolang/21-sunan-gresik.md
 [22]: https://github.com/epsi-rns/catatan-silsilah/blob/master/jolang/22-sunan-giri.md
