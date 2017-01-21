@@ -131,6 +131,12 @@ Berikut salah satu yang ada.
 *	Salah satunya: [Kaliyoso][kaliyoso]
 	<br/>Sumber: Silsilah Keluarga
 	<br/>Catatan: Hanya sebagian kecil yang telah dicatat ulang ke internet (digitalisasi).
+	<br/>Ditampilkan Kyai Abdul Jalal maupun Kyai Yahya,
+	untuk meluruskan yang selama ini ditulis di internet.
+
+![Kyai Gulu][kyai-gulu]
+
+![Kyai Yahya bin Moch Qorib][moch-qorib]
 
 
 ## Mengenai Penulis
@@ -150,6 +156,8 @@ Sejak lahir sudah jomblo.
 
 [jumadil]: https://github.com/epsi-rns/catatan-silsilah/blob/master/source/svg/jumadil-qubro.png
 [mataram]: https://github.com/epsi-rns/catatan-silsilah/blob/master/source/svg/mataram.png
+[kyai-gulu]:  https://github.com/epsi-rns/catatan-silsilah/blob/master/source/svg/kyai-gulu.png
+[moch-qorib]: https://github.com/epsi-rns/catatan-silsilah/blob/master/source/svg/moch-qorib.png
 
 [kaliyoso]:   https://github.com/epsi-rns/gitodipuro/blob/master/silsilah.md
 
