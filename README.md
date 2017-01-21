@@ -133,6 +133,8 @@ Berikut salah satu yang ada.
 	<br/>Catatan: Hanya sebagian kecil yang telah dicatat ulang ke internet (digitalisasi).
 	<br/>Ditampilkan Kyai Abdul Jalal maupun Kyai Yahya,
 	untuk meluruskan yang selama ini ditulis di internet.
+	<br/>Tentunya tidak dapat dibandingkan setara antara
+	kesultanan yang besar, dengan wilayah perdikan yang kecil.
 
 ![Kyai Gulu][kyai-gulu]
 
