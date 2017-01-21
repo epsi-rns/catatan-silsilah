@@ -1,14 +1,4 @@
-# catatan-silsilah
-
-## To Do (belum selesai)
-
-*	Diagram Mataram
-
-*	Kalioso Link, with Diagram
-
-*	Perang Diponegoro: Diponegoro, Pakubuwono VI, Sentot Ali Pasha, Kyai Maja, Kyai Abdul Jalal
-
-*	Referensi
+# Catatan Silsilah
 
 ## Kata Pengantar
 
@@ -38,7 +28,7 @@ Bagaimanapun, inilah catatan silsilah sebagai gambaran awal.
 *	[Al Faqih - Jumadil Qubro][07]
 
 
-## Ringkasan dalam Diagram
+## Para Sunan dalam Diagram
 
 Secara ringkas, keturunan Jumadil Qubro berkumpul ke dua leluhur berikut.
 
@@ -53,7 +43,7 @@ Lalu keturunan keduanya berkumpul kembali ke dua leluhur berikut.
 *	Kyai Gulu
 
 
-![Ringkasan dalam Diagram][diagram]
+![Genealogi Para Sunan dalam Diagram][jumadil]
 
 
 ## Raden Mas Jolang
@@ -75,7 +65,9 @@ Lalu keturunan keduanya berkumpul kembali ke dua leluhur berikut.
 *Tambahan*
 
 *	[Syekh Siti Jenar][26]
-	<br/>Catatan: Lewat istri Raden Mas Jolang ke Raden Mas Rangsang (Sultan Agung), bukan leluhur Raden Mas Jolang.
+	<br/>Catatan: Lewat istri Raden Mas Jolang
+	ke Raden Mas Rangsang (Sultan Agung),
+	bukan leluhur Raden Mas Jolang.
 
 
 ## Pangeran Mandura
@@ -128,10 +120,15 @@ Sumber: Rodovid
 
 *	[Pakualam][45]
 
+![Genealogi Mataram dalam Diagram][mataram]
 
-## Keturunan Santri: Kaliyoso
 
-*	Keturunan Santri: Kaliyoso
+## Keturunan Santri
+
+Tidak banyak catatan di luar pemerintahan.
+Berikut salah satu yang ada.
+
+*	Salah satunya: [Kaliyoso][kaliyoso]
 	<br/>Sumber: Silsilah Keluarga
 	<br/>Catatan: Hanya sebagian kecil yang telah dicatat ulang ke internet (digitalisasi).
 
@@ -151,7 +148,10 @@ Sejak lahir sudah jomblo.
 [05]: https://github.com/epsi-rns/catatan-silsilah/blob/master/jumadil/05-ubaidullah.md
 [07]: https://github.com/epsi-rns/catatan-silsilah/blob/master/jumadil/07-al-faqih.md
 
-[diagram]: https://github.com/epsi-rns/catatan-silsilah/blob/master/source/svg/jumadil-qubro.png
+[jumadil]: https://github.com/epsi-rns/catatan-silsilah/blob/master/source/svg/jumadil-qubro.png
+[mataram]: https://github.com/epsi-rns/catatan-silsilah/blob/master/source/svg/mataram.png
+
+[kaliyoso]:   https://github.com/epsi-rns/gitodipuro/blob/master/silsilah.md
 
 [21]: https://github.com/epsi-rns/catatan-silsilah/blob/master/jolang/21-sunan-gresik.md
 [22]: https://github.com/epsi-rns/catatan-silsilah/blob/master/jolang/22-sunan-giri.md

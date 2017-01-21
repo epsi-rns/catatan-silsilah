@@ -8,26 +8,22 @@
 	<br/>/ (Raden Mas Suryaputra) (Prabu Mangkurat Jawa)
 
 *	» ♂ [Gusti Kanjeng Pangeran Haryo Mangkunegara][26095]
-	<br/>bin Prabu Amangkurat IV
 	<br/>/ (Gusti Pangeran Pancuran) (Gusti Pangeran Riyo)
+	<br/>bin Prabu Amangkurat IV
 	<br/>kelahiran: 1703
 
 *	» ♂ Kanjeng Gusti Pangeran Adipati Aria [Mangkunegara I][169963]
-	<br/>bin GKP Haryo Mangkunegara
+	<br/>putra Raden Ayu Wulan binti GBPH Blitar bin PB I
 	<br/>/ (Pangeran Sambernyawa) (Raden Mas Said)
-
-*	» ♂ [Pangeran Hario Prabuamijoyo][26101]
-	<br/>~ bin MN I
+	<br/>bin GKP Haryo Mangkunegara
 
 *	» ♂ Kanjeng Gusti Pangeran Adipati [Ario Mangkunegara II][26100] 
-	<br/>~ bin Pangeran Hario Prabuamijoyo
+	<br/>~ bin [Pangeran Hario Prabuamijoyo][26101] bin MN I
+	<br/>putra Ratu Alit (keturunan PB III)
 	<br/>(Th:1796-1835)
 
-*	» ♀ Raden Kanjeng Ayu Suyati / [Raden Ayu Notokusumo][26120]
-	<br/>~ bin PA II
-
 *	» ♂ Kanjeng Gusti Pangeran Adipati Ario [Mangkunegara III][26104]
-	<br/>putra Raden Kanjeng Ayu Suyati 
+	<br/>putra [Raden Ayu Notokusumo][26120] bin MN II
 	<br/>(Th:1835-1853)
 	<br/>kelahiran: 16 Januari 1803
 
@@ -53,8 +49,8 @@
 	<br/>(Th:1944-1987)
 
 *	» ♂ Kanjeng Gusti Pangeran Adipati Arya [Mangkunegara IX][416571]
-	<br/>bin MN VIII
 	<br/>/ (Gusti Pangeran Haryo Sujiwokusuma)
+	<br/>bin MN VIII
 	<br/>kelahiran: 18 Agustus 1951
 
 

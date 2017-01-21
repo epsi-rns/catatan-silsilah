@@ -5,12 +5,12 @@
 ## Silsilah Hamengkubuwono
 
 *	» ♂ [Prabu Amangkurat IV][354667] (Mangkurat Jawi)
-	<br/>~ bin PB I
 	<br/>/ (Raden Mas Suryaputra) (Prabu Mangkurat Jawa)
+	<br/>~ bin PB I
 
 *	»  ♂ [Sri Sultan Hamengku Buwono I][354668]
-	<br/>~ bin Prabu Amangkurat IV
 	<br/>/ (Pangeran Haryo Mangkubumi) (Raden Mas Sujono)
+	<br/>~ bin Prabu Amangkurat IV
 	<br/>kelahiran: 6 Agustus 1717, Kartasura
 
 *	» ♂ [Kanjeng Sri Sultan Hamengku Buwono II][354669]
@@ -26,38 +26,42 @@
 	<br/>kelahiran: 11 November 1785, Yogyakarta
 
 *	» ♂ [Kanjeng Sri Sultan Hamengku Buwono IV][26193]
-	<br/>~ bin HB III 
+	<br/>putra Gusti Kanjeng Ratu Hageng putri BRAy Sosrodiningrat bin HB I
 	<br/>/ (Gusti Raden Mas Ibnu Jarot) (Sinuhun Jarot)
+	<br/>~ bin HB III
 	<br/>kelahiran: 3 April 1804, Yogyakarta
 
 *	» ♂ [Kanjeng Sultan Hamengku Buwono V][26195]
-	<br/>~ bin HB IV
+	<br/>putra Gusti Kanjeng Ratu Hageng binti KRT Mangkunegoro putra BRAy Danukusumo bin HB I
 	<br/>/ (Gusti Raden Mas Gathot Menol) (Sinuhun Menol)
+	<br/>~ bin HB IV
 	<br/>kelahiran: 24 Januari 1820
 
 *	» ♂ [Kanjeng Sultan Hamengku Buwono VI][26196] 
-	<br/>~ bin HB IV
+	<br/>putra Gusti Kanjeng Ratu Hageng binti KRT Mangkunegoro putra BRAy Danukusumo bin HB I
 	<br/>/ (Gusti Raden Mas Mustojo) (Sinuhun Mangkubumi)
+	<br/>~ bin HB IV
 	<br/>kelahiran: 10 Agustus 1821, Yogyakarta
 
 *	» ♂ [Kanjeng Sultan Hamengku Buwono VII][26197]
-	<br/>~ bin HB VI
 	<br/>/ (Gusti Raden Mas Murtejo)
+	<br/>~ bin HB VI
 	<br/>kelahiran: 4 Februari 1839, Yogyakarta
 
 *	» ♂ [Kanjeng Sultan Hamengku Buwono VIII][26198]
-	<br/>~ bin HB VII
 	<br/>/ (Gusti Pangeran Haryo Puruboyo)
+	<br/>~ bin HB VII
 	<br/>kelahiran: 3 Maret 1880, Yogyakarta
 
 *	» ♂ [Kanjeng Sultan Hamengku Buwono IX][26199]
-	<br/>~ bin HB VIII
+	<br/>putra Raden Ajeng Kustilah binti KGP Adipati Mangkubumi bin HB VI
 	<br/>/ (Gusti Raden Mas Dorodjatun)
+	<br/>~ bin HB VIII
 	<br/>kelahiran: 12 April 1912, Ngasem (Kediri), Indonesia
 
 *	» ♂ [Kanjeng Sultan Hamengku Buwono X][26202]
-	<br/>~ bin HB IX
 	<br/>/ (Bendoro Raden Mas Herjuno Darpito)
+	<br/>~ bin HB IX
 	<br/>kelahiran: 2 April 1946
 
 

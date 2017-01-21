@@ -8,8 +8,8 @@
 	<br/>~  bin PB III
 
 *	» ♂ [Pangeran Arya Mataram][940669]
-	<br/>~ bin Mangkubumi I
 	<br/>/ (Pangeran Mangkubumi)
+	<br/>~ bin Mangkubumi I
 
 *	» ♂ BRMH Tondonagoro
 	<br/>~ bin Mangkubumi II

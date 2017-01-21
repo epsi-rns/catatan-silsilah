@@ -11,13 +11,13 @@
 	<br/>/ (Raden Mas Jolang) (Panembahan Seda ing Krapyak)
 
 *	» ♂ [Sultan Agung][26069]
-	<br/>~ bin Panembahan Hadi Prabu Hanyokrowati
 	<br/>/ (Raden Mas Djatmika) (Raden Mas Rangsang)
+	<br/>~ bin Panembahan Hadi Prabu Hanyokrowati
 	<br/>kelahiran: 1593, Kuto Gede - Kesultanan Mataram
 
 *	» ♂ [Sunan Prabu Amangkurat Agung][26073]
-	<br/>~ bin Sultan Agung
 	<br/>/ (Susuhunan Ing Alaga) (Raden Mas Sayidin)
+	<br/>~ bin Sultan Agung
 	<br/>kelahiran: 24 Juni 1619)
 
 

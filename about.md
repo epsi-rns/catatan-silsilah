@@ -4,6 +4,10 @@ Catatan silsilah adalah gambaran awal,
 supaya paham siapa jati diri kita.
 Bukan untuk dipamerkan, atau dibanggakan.
 
+Ini adalah bagian dari masa lalu.
+Dalam artian, tiap periode ada ulama-ulama-nya masing-masing.
+Dan jarak periode-nya sudah sangat jauh dari saat sekarang.
+
 Gagasan menulis silsilah ini berasal dari keingintahuan pribadi,
 yang dimulai dari meringkas silsilah mataram dari sumber Rodovid.org,
 salin-dan-tempel (copy-paste) satu-per-satu, ke notepad.
