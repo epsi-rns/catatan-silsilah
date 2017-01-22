@@ -26,21 +26,21 @@
 	<br/>kelahiran: 11 November 1785, Yogyakarta
 
 *	» ♂ [Kanjeng Sri Sultan Hamengku Buwono IV][26193]
-	<br/>putra Gusti Kanjeng Ratu Hageng putri BRAy Sosrodiningrat bin HB I
 	<br/>/ (Gusti Raden Mas Ibnu Jarot) (Sinuhun Jarot)
 	<br/>~ bin HB III
+	<br/>~ putra GKR Hageng putri BRAy Sosrodiningrat bin HB I
 	<br/>kelahiran: 3 April 1804, Yogyakarta
 
 *	» ♂ [Kanjeng Sultan Hamengku Buwono V][26195]
-	<br/>putra Gusti Kanjeng Ratu Hageng binti KRT Mangkunegoro putra BRAy Danukusumo bin HB I
 	<br/>/ (Gusti Raden Mas Gathot Menol) (Sinuhun Menol)
 	<br/>~ bin HB IV
+	<br/>~ putra GKR Hageng binti KRT Mangkunegoro putra BRAy Danukusumo bin HB I
 	<br/>kelahiran: 24 Januari 1820
 
 *	» ♂ [Kanjeng Sultan Hamengku Buwono VI][26196] 
-	<br/>putra Gusti Kanjeng Ratu Hageng binti KRT Mangkunegoro putra BRAy Danukusumo bin HB I
 	<br/>/ (Gusti Raden Mas Mustojo) (Sinuhun Mangkubumi)
 	<br/>~ bin HB IV
+	<br/>~ putra Gusti Kanjeng Ratu Hageng binti KRT Mangkunegoro putra BRAy Danukusumo bin HB I
 	<br/>kelahiran: 10 Agustus 1821, Yogyakarta
 
 *	» ♂ [Kanjeng Sultan Hamengku Buwono VII][26197]
@@ -54,9 +54,9 @@
 	<br/>kelahiran: 3 Maret 1880, Yogyakarta
 
 *	» ♂ [Kanjeng Sultan Hamengku Buwono IX][26199]
-	<br/>putra Raden Ajeng Kustilah binti KGP Adipati Mangkubumi bin HB VI
 	<br/>/ (Gusti Raden Mas Dorodjatun)
 	<br/>~ bin HB VIII
+	<br/>~ putra Raden Ajeng Kustilah binti KGP Adipati Mangkubumi bin HB VI
 	<br/>kelahiran: 12 April 1912, Ngasem (Kediri), Indonesia
 
 *	» ♂ [Kanjeng Sultan Hamengku Buwono X][26202]

@@ -6,16 +6,17 @@
 
 *	» ♂ [Raden Patah][25683]
 	<br/>/ Panembahan Jin Bun (Raden Praba)
-	<br/>Sultan Bintoro Demak I
+	<br/>/Sultan Bintoro Demak I
 
 *	» ♂ [Pangeran Hadipati Trenggono][26355]
-	<br/>(1521 M - 1548 M) Sultan Demak III
+	<br/>/Sultan Demak III
+	<br/>(1521 M - 1548 M)
 
 *	» ♀ [Ratu Mas Cempaka][26359]
-	<br/>[Demak] 
+	<br/>Demak
 
 *	» ♀ [Ratu Mas Banten][775179]
-	<br/>[Pajang]
+	<br/>Pajang
 
 *	» ♂ [Pangeran Mandura][771620]
 

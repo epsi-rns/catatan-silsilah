@@ -17,7 +17,7 @@
 *	» ♂ Kanjeng Gusti Pangeran Aryo Suryo Sastraningrat / [Paku Alam III][26205]
 	<br/>/ (Gusti Raden Mas Haryo Suryo Sastraningrat)
 	<br/>~ bin PA II
-	<br/>putra ♀ GKRAy Krama binti HB II
+	<br/>~ putra ♀ GKRAy Krama binti HB II
 	<br/>kelahiran: 20 Desember 1827, Yogyakarta
 
 *	» ♂ Kanjeng Gusti Pangeran Adipati Ario [Paku Alam IV][781217]
@@ -38,14 +38,14 @@
 *	» ♂ Kanjeng Gusti Pangeran Adipati Ario [Paku Alam VII][26210]
 	<br/>/ (Bendoro Raden Mas Aryo Surarjo)
 	<br/>~ bin PA VI
-	<br/>putra ♀ GKRT (binti PA III)
-	<br/>putra ♀ GKRT (putri BRa SS (binti BPAM bin HB II))
+	<br/>~ putra ♀ GKRT (binti PA III)
+	<br/>~ putra ♀ GKRT (putri BRa SS (binti BPAM bin HB II))
 	<br/>kelahiran: 9 Desember 1882, Yogyakarta
 
 *	» ♂ Kanjeng Gusti Pangeran Adipati Ario [Paku Alam VIII][26213]
 	<br/>/ (Bendoro Raden Mas Haryo Sularso Kunto Suratno) (Kanjeng Pangeran Haryo Prabu Suryodilogo)
 	<br/>~ bin PA VII
-	<br/>putra ♀ [GBRAy Retno Puwoso][771545] binti PB X
+	<br/>~ putra ♀ [GBRAy Retno Puwoso][771545] binti PB X
 	<br/>kelahiran: 10 April 1910, Yogyakarta
 
 *	» ♂ Kanjeng Gusti Pangeran Adipati Ario [Paku Alam IX][771557]

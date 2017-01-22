@@ -18,7 +18,7 @@
 *	» ♂ [Sunan Prabu Amangkurat Agung][26073]
 	<br/>/ (Susuhunan Ing Alaga) (Raden Mas Sayidin)
 	<br/>~ bin Sultan Agung
-	<br/>kelahiran: 24 Juni 1619)
+	<br/>kelahiran: 24 Juni 1619
 
 
 Sumber: rodovid.org<br/>

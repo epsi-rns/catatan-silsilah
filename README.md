@@ -15,7 +15,7 @@ dan tidak dapat dijadikan acuan sejarah.
 Bagaimanapun, inilah catatan silsilah sebagai gambaran awal.
 
 
-## Silsilah Jumadil Kubro
+## Silsilah Jumadil Qubro
 
 *	[Rasulullah SAW - Ja'afar As-Sodiq][01]
 
@@ -136,7 +136,7 @@ Berikut salah satu yang ada.
 	<br/>Ditampilkan Kyai Abdul Jalal maupun Kyai Yahya,
 	untuk meluruskan yang selama ini ditulis di internet.
 	<br/>Tentunya tidak dapat dibandingkan setara antara
-	kesultanan yang besar, dengan wilayah perdikan yang kecil.
+	kesultanan Mataram yang besar, dengan wilayah perdikan yang kecil.
 
 ![Kyai Gulu][kyai-gulu]
 
@@ -147,7 +147,7 @@ Berikut salah satu yang ada.
 
 Bukan Priyayi, bukan pula Santri.<br/>
 Bukan abangan, walapun sering dipanggil 'Bang'.<br/>
-Sejak lahir sudah jomblo. Dan terpaksa masih konsisten.
+Sejak lahir sudah jomblo. Dan masih selalu konsisten sampai awal 2017 ini.
 
 
 [about]: https://github.com/epsi-rns/catatan-silsilah/blob/master/about.md

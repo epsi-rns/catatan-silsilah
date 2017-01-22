@@ -20,7 +20,7 @@
 *	» ♂ [Kanjeng Susuhunan Pakubuwono III][26148]
 	<br/>/ (Raden Mas Suryadi)
 	<br/>~ bin PB II
-	<br/>putra Raden Ayu Sukiya/Subiya binti Pangeran Adipati Purbaya bin PB 1
+	<br/>~ putra Raden Ayu Sukiya/Subiya binti Pangeran Adipati Purbaya bin PB 1
 
 *	» ♂ [Kanjeng Susuhunan Pakubuwono IV][26151]
 	<br/>/ (Raden Mas Subadya) (Sunan Bagus)
@@ -38,7 +38,7 @@
 	<br/>kelahiran: 26 April 1807, Surakarta
 	<br/>wafat: diasingkan di Ambon, ditembak di dahi oleh Belanda.
 
-*	♂ [Kanjeng Susuhunan Pakubuwono VII][26157] 
+*	» ♂ [Kanjeng Susuhunan Pakubuwono VII][26157] 
 	<br/>/ (Raden Mas Malikis Solikin) (Pangaran Adipati Purbaya)
 	<br/>~ bin PB IV
 	<br/>kelahiran: 28 Juli 1796, Surakarta

@@ -23,7 +23,7 @@
 	<br/>( - 1582 M), Pajang
 
 *	» ♀ [Ratu Mas Banten][775179]
-	<br/>[Pajang]
+	<br/>Pajang
 
 *	» ♂ [Pangeran Mandura][771620]
 
