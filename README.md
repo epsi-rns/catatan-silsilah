@@ -48,6 +48,8 @@ Lalu keturunan keduanya berkumpul kembali ke dua leluhur berikut.
 
 ## Raden Mas Jolang
 
+Dikenal juga dengan nama *Panembahan Hadi Prabu Hanyokrowati*.
+
 *Wali*
 
 *	[Sunan Gresik][21] (Bapak dari Jaka Tarub)
@@ -145,7 +147,7 @@ Berikut salah satu yang ada.
 
 Bukan Priyayi, bukan pula Santri.<br/>
 Bukan abangan, walapun sering dipanggil 'Bang'.<br/>
-Sejak lahir sudah jomblo.
+Sejak lahir sudah jomblo. Dan terpaksa masih konsisten.
 
 
 [about]: https://github.com/epsi-rns/catatan-silsilah/blob/master/about.md

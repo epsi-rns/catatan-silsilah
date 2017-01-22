@@ -20,6 +20,11 @@ dan juga penulisan nama yang meragukan.
 Dalam usaha melengkapi, saya padukan dengan sumber lain,
 terutama buku silsilah keluarga.
 
+Jangan sampai karena ada satu atau dua perdebatan,
+maka semua gambaran ini menjadi mentah.
+Untuk mengurangi perdebatan, maka yang diperlukan hanyalah,
+pengkajian yang dapat diterima secara akademis.
+
 *Disclaimer*: catatan silsilah ini tidak dapat dijadikan acuan,
 karena tidak melalui studi akademis yang ilmiah,
 sehingga tidak dapat diketahui secara pasti nilai kebenarannya.

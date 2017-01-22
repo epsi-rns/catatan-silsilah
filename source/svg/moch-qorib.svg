@@ -14,9 +14,9 @@
    viewBox="0 0 420 370"
    id="svg2"
    version="1.1"
-   inkscape:version="0.91 r13725"
+   inkscape:version="0.92.0 r"
    sodipodi:docname="moch-qorib.svg"
-   inkscape:export-filename="/media/Works/Development/github/gitodipuro/source/svg/moch-qorib.png"
+   inkscape:export-filename="/media/Works/Development/github/catatan-silsilah/source/svg/moch-qorib.png"
    inkscape:export-xdpi="90"
    inkscape:export-ydpi="90">
   <defs
@@ -35,22 +35,6 @@
          style="fill:#000000;fill-opacity:1;fill-rule:evenodd;stroke:#000000;stroke-width:0.625;stroke-linejoin:round;stroke-opacity:1"
          d="M 8.7185878,4.0337352 -2.2072895,0.01601326 8.7185884,-4.0017078 c -1.7454984,2.3720609 -1.7354408,5.6174519 -6e-7,8.035443 z"
          transform="matrix(-1.1,0,0,-1.1,-1.1,0)" />
-    </marker>
-    <marker
-       inkscape:isstock="true"
-       style="overflow:visible"
-       id="marker4834"
-       refX="0"
-       refY="0"
-       orient="auto"
-       inkscape:stockid="Arrow2Lend"
-       inkscape:collect="always">
-      <path
-         transform="matrix(-1.1,0,0,-1.1,-1.1,0)"
-         d="M 8.7185878,4.0337352 -2.2072895,0.01601326 8.7185884,-4.0017078 c -1.7454984,2.3720609 -1.7354408,5.6174519 -6e-7,8.035443 z"
-         style="fill:#000000;fill-opacity:1;fill-rule:evenodd;stroke:#000000;stroke-width:0.625;stroke-linejoin:round;stroke-opacity:1"
-         id="path4836"
-         inkscape:connector-curvature="0" />
     </marker>
     <inkscape:path-effect
        is_visible="true"
@@ -83,11 +67,11 @@
      borderopacity="1.0"
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
-     inkscape:zoom="1.8918785"
-     inkscape:cx="173.20739"
-     inkscape:cy="211.19288"
+     inkscape:zoom="1.3377601"
+     inkscape:cx="204.65761"
+     inkscape:cy="141.78258"
      inkscape:document-units="px"
-     inkscape:current-layer="layer1"
+     inkscape:current-layer="layer2"
      showgrid="false"
      inkscape:window-width="1280"
      inkscape:window-height="750"
@@ -107,30 +91,39 @@
         <dc:format>image/svg+xml</dc:format>
         <dc:type
            rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-        <dc:title></dc:title>
+        <dc:title />
       </cc:Work>
     </rdf:RDF>
   </metadata>
   <g
-     inkscape:label="Layer 1"
      inkscape:groupmode="layer"
-     id="layer1"
-     transform="translate(10,-692.36206)">
+     id="layer2"
+     inkscape:label="Background"
+     sodipodi:insensitive="true"
+     style="display:inline">
     <rect
+       transform="translate(10,-692.36206)"
        style="opacity:1;fill:#ffffff;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:1;stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
        id="rect3407"
        width="420"
        height="370"
        x="-10"
        y="692.36206" />
+  </g>
+  <g
+     inkscape:label="Diagram"
+     inkscape:groupmode="layer"
+     id="layer1"
+     transform="translate(10,-692.36206)"
+     sodipodi:insensitive="true"
+     style="display:inline">
     <text
-       sodipodi:linespacing="125%"
        id="text4519"
        y="658.87103"
        x="154.83235"
        style="font-style:normal;font-weight:normal;font-size:40px;line-height:125%;font-family:Sans;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
        xml:space="preserve"><tspan
-         y="658.87103"
+         y="694.26166"
          x="154.83235"
          id="tspan4521"
          sodipodi:role="line" /></text>
@@ -153,14 +146,12 @@
        style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:15px;line-height:125%;font-family:Oswald;-inkscape-font-specification:'Oswald, Normal';text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
        x="39.062614"
        y="869.55688"
-       id="text4499"
-       sodipodi:linespacing="125%"><tspan
+       id="text4499"><tspan
          y="869.55688"
          x="39.062614"
          id="tspan4501"
          sodipodi:role="line">Kyai Kertoyudo</tspan></text>
     <text
-       sodipodi:linespacing="125%"
        id="text4503"
        y="869.55688"
        x="27.233999"
@@ -171,7 +162,6 @@
          id="tspan4505"
          sodipodi:role="line">1.</tspan></text>
     <text
-       sodipodi:linespacing="125%"
        id="text4805"
        y="734.32501"
        x="199.63989"
@@ -186,8 +176,7 @@
        style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:20px;line-height:125%;font-family:Oswald;-inkscape-font-specification:'Oswald, Bold';text-align:center;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
        x="199.98291"
        y="759.08942"
-       id="text4811"
-       sodipodi:linespacing="125%"><tspan
+       id="text4811"><tspan
          sodipodi:role="line"
          id="tspan3504"
          x="199.98291"
@@ -200,7 +189,6 @@
        x="0.5"
        y="876.86206" />
     <text
-       sodipodi:linespacing="125%"
        id="text3517"
        y="894.55676"
        x="39.062614"
@@ -215,8 +203,7 @@
        style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:15px;line-height:125%;font-family:Oswald;-inkscape-font-specification:'Oswald, Normal';text-align:end;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:end;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
        x="27.233999"
        y="894.55676"
-       id="text3521"
-       sodipodi:linespacing="125%"><tspan
+       id="text3521"><tspan
          sodipodi:role="line"
          id="tspan3523"
          x="27.233999"
@@ -233,14 +220,12 @@
        style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:15px;line-height:125%;font-family:Oswald;-inkscape-font-specification:'Oswald, Normal';text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
        x="39.062614"
        y="919.55676"
-       id="text3529"
-       sodipodi:linespacing="125%"><tspan
+       id="text3529"><tspan
          y="919.55676"
          x="39.062614"
          id="tspan3531"
          sodipodi:role="line">Kliwon Wiroprojo</tspan></text>
     <text
-       sodipodi:linespacing="125%"
        id="text3533"
        y="919.55676"
        x="27.233999"
@@ -258,7 +243,6 @@
        x="0.5"
        y="926.86218" />
     <text
-       sodipodi:linespacing="125%"
        id="text3541"
        y="944.55688"
        x="39.062614"
@@ -273,8 +257,7 @@
        style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:15px;line-height:125%;font-family:Oswald;-inkscape-font-specification:'Oswald, Normal';text-align:end;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:end;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
        x="27.233999"
        y="944.55688"
-       id="text3545"
-       sodipodi:linespacing="125%"><tspan
+       id="text3545"><tspan
          sodipodi:role="line"
          id="tspan3547"
          x="27.233999"
@@ -291,15 +274,13 @@
        style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:15px;line-height:125%;font-family:Oswald;-inkscape-font-specification:'Oswald, Normal';text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
        x="39.062614"
        y="969.55676"
-       id="text3553"
-       sodipodi:linespacing="125%"><tspan
+       id="text3553"><tspan
          y="969.55676"
          x="39.062614"
          id="tspan3555"
          sodipodi:role="line"
          style="font-weight:bold">Kyai Haji Yahya</tspan></text>
     <text
-       sodipodi:linespacing="125%"
        id="text3557"
        y="969.55676"
        x="27.233999"
@@ -317,7 +298,6 @@
        x="0.5"
        y="976.86206" />
     <text
-       sodipodi:linespacing="125%"
        id="text3565"
        y="994.55676"
        x="39.062614"
@@ -332,8 +312,7 @@
        style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:15px;line-height:125%;font-family:Oswald;-inkscape-font-specification:'Oswald, Normal';text-align:end;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:end;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
        x="27.233999"
        y="994.55676"
-       id="text3569"
-       sodipodi:linespacing="125%"><tspan
+       id="text3569"><tspan
          sodipodi:role="line"
          id="tspan3571"
          x="27.233999"
@@ -350,14 +329,12 @@
        style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:15px;line-height:125%;font-family:Oswald;-inkscape-font-specification:'Oswald, Normal';text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
        x="39.062614"
        y="1019.5568"
-       id="text3577"
-       sodipodi:linespacing="125%"><tspan
+       id="text3577"><tspan
          y="1019.5568"
          x="39.062614"
          id="tspan3579"
          sodipodi:role="line">Nyai Mangunrejo</tspan></text>
     <text
-       sodipodi:linespacing="125%"
        id="text3581"
        y="1019.5568"
        x="27.233999"
@@ -368,7 +345,6 @@
          id="tspan3583"
          sodipodi:role="line">7.</tspan></text>
     <text
-       sodipodi:linespacing="125%"
        id="text3620"
        y="1044.5569"
        x="39.062614"
@@ -386,7 +362,6 @@
        x="210.5"
        y="851.86218" />
     <text
-       sodipodi:linespacing="125%"
        id="text3626"
        y="869.55688"
        x="249.06261"
@@ -401,8 +376,7 @@
        style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:15px;line-height:125%;font-family:Oswald;-inkscape-font-specification:'Oswald, Normal';text-align:end;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:end;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
        x="237.23399"
        y="869.55688"
-       id="text3630"
-       sodipodi:linespacing="125%"><tspan
+       id="text3630"><tspan
          sodipodi:role="line"
          id="tspan3632"
          x="237.23399"
@@ -419,14 +393,12 @@
        style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:15px;line-height:125%;font-family:Oswald;-inkscape-font-specification:'Oswald, Normal';text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
        x="249.06261"
        y="894.55676"
-       id="text3636"
-       sodipodi:linespacing="125%"><tspan
+       id="text3636"><tspan
          y="894.55676"
          x="249.06261"
          id="tspan3638"
          sodipodi:role="line">Kyai Mohamad</tspan></text>
     <text
-       sodipodi:linespacing="125%"
        id="text3640"
        y="894.55676"
        x="237.23399"
@@ -444,7 +416,6 @@
        x="0.5"
        y="771.86206" />
     <text
-       sodipodi:linespacing="125%"
        id="text3646"
        y="789.55676"
        x="94.923096"
@@ -466,8 +437,7 @@
        style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:15px;line-height:125%;font-family:Oswald;-inkscape-font-specification:'Oswald, Normal';text-align:center;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
        x="304.87915"
        y="789.55676"
-       id="text3656"
-       sodipodi:linespacing="125%"><tspan
+       id="text3656"><tspan
          sodipodi:role="line"
          id="tspan3666"
          x="304.87915"
@@ -477,14 +447,12 @@
        style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:15px;line-height:125%;font-family:Oswald;-inkscape-font-specification:'Oswald, Normal';text-align:center;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
        x="94.923096"
        y="814.55627"
-       id="text3668"
-       sodipodi:linespacing="125%"><tspan
+       id="text3668"><tspan
          sodipodi:role="line"
          id="tspan3680"
          x="94.923096"
          y="814.55627">dari Butuh</tspan></text>
     <text
-       sodipodi:linespacing="125%"
        id="text3676"
        y="814.55652"
        x="304.87915"
@@ -494,19 +462,44 @@
          id="tspan3682"
          x="304.87915"
          y="814.55652">dari Mlangi</tspan></text>
-    <path
-       style="fill:none;fill-rule:evenodd;stroke:#000000;stroke-width:1;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;stroke-miterlimit:4;stroke-dasharray:none;marker-end:url(#marker4834)"
-       d="m 95.000901,821.36202 0,29.41384"
-       id="path3684"
-       inkscape:path-effect="#path-effect3686"
-       inkscape:original-d="m 95.000901,821.36202 0,29.41384"
-       inkscape:connector-curvature="0" />
-    <path
-       inkscape:connector-curvature="0"
-       inkscape:original-d="m 304.98238,821.36202 0,29.41384"
-       inkscape:path-effect="#path-effect4832"
-       id="path4830"
-       d="m 304.98238,821.36202 0,29.41384"
-       style="fill:none;fill-rule:evenodd;stroke:#000000;stroke-width:0.99999994px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;marker-end:url(#marker4271)" />
+  </g>
+  <g
+     inkscape:groupmode="layer"
+     id="layer3"
+     inkscape:label="Connector"
+     sodipodi:insensitive="true"
+     style="display:inline">
+    <g
+       style="display:inline"
+       transform="translate(-200,-562.36206)"
+       id="g241">
+      <path
+         inkscape:connector-curvature="0"
+         id="path231"
+         d="m 304.50001,711.36209 v -19"
+         style="fill:none;fill-rule:evenodd;stroke:#000000;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1" />
+      <path
+         sodipodi:nodetypes="ccccc"
+         inkscape:connector-curvature="0"
+         id="path233"
+         d="m 304.5,722.36206 4.5,-15 -4.5,3 -4.5,-3 z"
+         style="fill:#000000;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1" />
+    </g>
+    <g
+       id="g98"
+       transform="translate(10,-562.36206)"
+       style="display:inline">
+      <path
+         style="fill:none;fill-rule:evenodd;stroke:#000000;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+         d="m 304.50001,711.36209 v -19"
+         id="path94"
+         inkscape:connector-curvature="0" />
+      <path
+         style="fill:#000000;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+         d="m 304.5,722.36206 4.5,-15 -4.5,3 -4.5,-3 z"
+         id="path96"
+         inkscape:connector-curvature="0"
+         sodipodi:nodetypes="ccccc" />
+    </g>
   </g>
 </svg>
