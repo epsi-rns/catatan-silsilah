@@ -1,5 +1,13 @@
 # Catatan Silsilah
 
+
+## Edisi Cetak.
+
+Edisi cetak dari catatan silsilah ini tersedia dalam format PDF.
+
+*	[catatan-silsilah-2017-januari.pdf][pdf]
+
+
 ## Kata Pengantar
 
 Kesultanan Mataram dibangun dari hasil kawin-mawin,
@@ -13,6 +21,13 @@ dan tidak dapat dijadikan acuan sejarah.
 
 
 Bagaimanapun, inilah catatan silsilah sebagai gambaran awal.
+
+
+## Bantahan
+
+Bantahan terhadap tulisan ini dapat dilakukan dengan melakukan
+fork atau clone dari repository ini, sehingga penulis lain dapat memiliki,
+repository sendiri sebagai perbaikan berdasarkan tulisan ini.
 
 
 ## Silsilah Jumadil Qubro
@@ -151,6 +166,8 @@ Sejak lahir sudah jomblo. Dan masih selalu konsisten sampai awal 2017 ini.
 
 
 [about]: https://github.com/epsi-rns/catatan-silsilah/blob/master/about.md
+
+[pdf]: https://github.com/epsi-rns/catatan-silsilah/raw/master/source/pdf/catatan-silsilah-2017-januari.pdf
 
 [01]: https://github.com/epsi-rns/catatan-silsilah/blob/master/jumadil/01-rasulullah.md
 [02]: https://github.com/epsi-rns/catatan-silsilah/blob/master/jumadil/02-abu-bakar.md
