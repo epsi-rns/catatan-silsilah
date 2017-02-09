@@ -70,7 +70,7 @@ Dikenal juga dengan nama *Panembahan Hadi Prabu Hanyokrowati*.
 *	[Sunan Gresik][21] (Bapak dari Jaka Tarub)
 	<br/>(1297 M - 1419 M)
 
-*	[Sunan Giri][21] (Lewat Ki Ageng Saba)
+*	[Sunan Giri][22] (Lewat Ki Ageng Saba)
 	<br/>(1442 M - 1506 M)
 
 *	[Sunan Gunung Jati][23]
