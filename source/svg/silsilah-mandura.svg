@@ -2205,11 +2205,11 @@
      borderopacity="1.0"
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
-     inkscape:zoom="0.87421137"
-     inkscape:cx="506.42378"
+     inkscape:zoom="1.7620823"
+     inkscape:cx="405.69069"
      inkscape:cy="273.262"
      inkscape:document-units="px"
-     inkscape:current-layer="g4602"
+     inkscape:current-layer="g562"
      showgrid="false"
      inkscape:window-width="1280"
      inkscape:window-height="750"
@@ -2962,12 +2962,10 @@
          id="text559"
          y="554.55676"
          x="319.98544"
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:15px;line-height:125%;font-family:Oswald;-inkscape-font-specification:'Oswald, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:center;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:15px;line-height:125%;font-family:Oswald;-inkscape-font-specification:'Oswald, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:center;letter-spacing:0px;word-spacing:0px;writing-mode:lr;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;"
          xml:space="preserve"><tspan
-           y="554.55676"
-           x="319.98544"
-           id="tspan557"
-           sodipodi:role="line">Raden Siti Murtasiyah</tspan></text>
+           sodipodi:role="line"
+           id="tspan689">Raden Siti Murtasimah</tspan></text>
     </g>
     <g
        transform="translate(350,255)"

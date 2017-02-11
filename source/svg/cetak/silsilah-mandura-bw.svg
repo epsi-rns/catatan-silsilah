@@ -15,8 +15,8 @@
    id="svg2"
    version="1.1"
    inkscape:version="0.92.0 r"
-   sodipodi:docname="silsilah-mandura.svg"
-   inkscape:export-filename="/media/Works/Sosial/2017 - inkscape/genealogy/silsilah-mandura.png"
+   sodipodi:docname="silsilah-mandura-bw.svg"
+   inkscape:export-filename="/media/Works/Sosial/2017 - inkscape/genealogy/silsilah-mandura-bw.png"
    inkscape:export-xdpi="90"
    inkscape:export-ydpi="90">
   <defs
@@ -1213,11 +1213,11 @@
      borderopacity="1.0"
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
-     inkscape:zoom="0.86743454"
-     inkscape:cx="631.56369"
-     inkscape:cy="388.99999"
+     inkscape:zoom="0.74215686"
+     inkscape:cx="499.89432"
+     inkscape:cy="275"
      inkscape:document-units="px"
-     inkscape:current-layer="layer1"
+     inkscape:current-layer="g562"
      showgrid="false"
      inkscape:window-width="1280"
      inkscape:window-height="750"
@@ -1983,12 +1983,10 @@
          id="text559"
          y="554.55676"
          x="319.98544"
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:15px;line-height:125%;font-family:Oswald;-inkscape-font-specification:'Oswald, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:center;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:15px;line-height:125%;font-family:Oswald;-inkscape-font-specification:'Oswald, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:center;letter-spacing:0px;word-spacing:0px;writing-mode:lr;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;"
          xml:space="preserve"><tspan
-           y="554.55676"
-           x="319.98544"
-           id="tspan557"
-           sodipodi:role="line">Raden Siti Murtasiyah</tspan></text>
+           sodipodi:role="line"
+           id="tspan511">Raden Siti Murtasimah</tspan></text>
     </g>
     <g
        transform="translate(350,255)"
