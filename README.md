@@ -168,7 +168,7 @@ Berikut salah satu yang ada.
 ## Mengenai Penulis
 
 Bukan Priyayi, bukan pula Santri.<br/>
-Bukan abangan, walapun sering dipanggil 'Bang'.<br/>
+Bukan abangan, walaupun sering dipanggil 'Bang'.<br/>
 Sejak lahir sudah jomblo. Dan masih selalu konsisten sampai awal 2017 ini.
 
 
