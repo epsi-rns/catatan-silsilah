@@ -35,4 +35,16 @@ sehingga tidak dapat diketahui secara pasti nilai kebenarannya.
 Bilamana dibutuhkan untuk dijadikan acuan,
 silahkan untuk dikaji sendiri, lebih lanjut secara akademis.
 
+## Pemilihan Nama dan Penyingkatan Gelar.
+
+Mohon maaf kalau ada ketidaktepatan memilih nama,
+karena seseorang tokoh ternyata memiliki banyak nama dan gelar.
+
+Begitu pula, penyingkatan gelar karena keterbatasan ruang dalam diagram,
+bila ada ketidaktepatan, maka saya mohon maaf.
+
+Saya memang tidak pernah berada di lingkungan dalam Keraton,
+karena itu pemahaman saya sangat terbatas.
+
+
 [up]: https://github.com/epsi-rns/catatan-silsilah/blob/master/README.md

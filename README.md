@@ -19,7 +19,6 @@ dapat dibaca bilamana tertarik.
 *Disclaimer*: Catatan silsilah ini hanyalah gambaran,
 dan tidak dapat dijadikan acuan sejarah.
 
-
 Bagaimanapun, inilah catatan silsilah sebagai gambaran awal.
 
 
@@ -137,7 +136,7 @@ Persilangan keduanya berkumpul sebagai berikut.
 
 ## Keturunan Priyayi: Mataram
 
-Rincian diagram dapat dilihat pada halaman [priyayi][priyayi].
+Rincian diagram dapat dilihat pada halaman [mataram][mataram].
 
 Sumber: Rodovid
 
@@ -178,7 +177,7 @@ Sejak lahir sudah jomblo. Dan masih selalu konsisten sampai awal 2017 ini.
 [jolang]:  https://github.com/epsi-rns/catatan-silsilah/blob/master/rinci/jolang.md
 [mandura]: https://github.com/epsi-rns/catatan-silsilah/blob/master/rinci/mandura.md
 [silang]:  https://github.com/epsi-rns/catatan-silsilah/blob/master/rinci/silang.md
-[priyayi]: https://github.com/epsi-rns/catatan-silsilah/blob/master/rinci/priyayi.md
+[mataram]: https://github.com/epsi-rns/catatan-silsilah/blob/master/rinci/mataram.md
 [santri]:  https://github.com/epsi-rns/catatan-silsilah/blob/master/rinci/santri.md
 
 [pdf]: https://github.com/epsi-rns/catatan-silsilah/raw/master/source/pdf/catatan-silsilah-2017-januari.pdf
