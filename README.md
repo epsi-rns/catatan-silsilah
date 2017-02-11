@@ -5,7 +5,7 @@
 
 Edisi cetak dari catatan silsilah ini tersedia dalam format PDF.
 
-*	[catatan-silsilah-2017-januari.pdf][pdf]
+*	[catatan-silsilah-2017-februari.pdf][pdf]
 
 
 ## Kata Pengantar
@@ -180,7 +180,7 @@ Sejak lahir sudah jomblo. Dan masih selalu konsisten sampai awal 2017 ini.
 [mataram]: https://github.com/epsi-rns/catatan-silsilah/blob/master/rinci/mataram.md
 [santri]:  https://github.com/epsi-rns/catatan-silsilah/blob/master/rinci/santri.md
 
-[pdf]: https://github.com/epsi-rns/catatan-silsilah/raw/master/source/pdf/catatan-silsilah-2017-januari.pdf
+[pdf]: https://github.com/epsi-rns/catatan-silsilah/raw/master/source/pdf/catatan-silsilah-2017-februari.pdf
 
 [01]: https://github.com/epsi-rns/catatan-silsilah/blob/master/jumadil/01-rasulullah.md
 [02]: https://github.com/epsi-rns/catatan-silsilah/blob/master/jumadil/02-abu-bakar.md
