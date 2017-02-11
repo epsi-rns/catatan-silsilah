@@ -12,9 +12,18 @@ Ini adalah bagian dari masa lalu.
 Dalam artian, tiap periode ada ulama-ulama-nya masing-masing.
 Dan jarak periode-nya sudah sangat jauh dari saat sekarang.
 
+
+## Motivasi
+
 Gagasan menulis silsilah ini berasal dari keingintahuan pribadi,
 yang dimulai dari meringkas silsilah mataram dari sumber Rodovid.org,
 salin-dan-tempel (copy-paste) satu-per-satu, ke notepad.
+
+Bagaikan menemukan sumur tua di halaman,
+gagasan ini muncul begitu saja.
+
+
+## Keabsahan Rodovid
 
 Keberadaan rodovid sangat membantu untuk memahami silsilah.
 Sebagian cukup dapat dipercaya.
@@ -34,6 +43,7 @@ karena tidak melalui studi akademis yang ilmiah,
 sehingga tidak dapat diketahui secara pasti nilai kebenarannya.
 Bilamana dibutuhkan untuk dijadikan acuan,
 silahkan untuk dikaji sendiri, lebih lanjut secara akademis.
+
 
 ## Pemilihan Nama dan Penyingkatan Gelar.
 
