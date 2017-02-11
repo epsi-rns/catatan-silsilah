@@ -177,7 +177,9 @@ Sejak lahir sudah jomblo. Dan masih selalu konsisten sampai awal 2017 ini.
 [jumadil]: https://github.com/epsi-rns/catatan-silsilah/blob/master/rinci/jumadil.md
 [jolang]:  https://github.com/epsi-rns/catatan-silsilah/blob/master/rinci/jolang.md
 [mandura]: https://github.com/epsi-rns/catatan-silsilah/blob/master/rinci/mandura.md
-[silang]: https://github.com/epsi-rns/catatan-silsilah/blob/master/rinci/silang.md
+[silang]:  https://github.com/epsi-rns/catatan-silsilah/blob/master/rinci/silang.md
+[priyayi]: https://github.com/epsi-rns/catatan-silsilah/blob/master/rinci/priyayi.md
+[santri]:  https://github.com/epsi-rns/catatan-silsilah/blob/master/rinci/santri.md
 
 [pdf]: https://github.com/epsi-rns/catatan-silsilah/raw/master/source/pdf/catatan-silsilah-2017-januari.pdf
 
