@@ -36,4 +36,4 @@
 [17]: https://github.com/epsi-rns/catatan-silsilah/blob/master/mandura/17-pengging.md
 [19]: https://github.com/epsi-rns/catatan-silsilah/blob/master/mandura/19-raden-patah.md
 
-[svg-silsilah-mandura]: https://github.com/epsi-rns/catatan-silsilah/blob/master/source/svg/silsilah-mandura-bw.png
+[svg-silsilah-mandura]: https://github.com/epsi-rns/catatan-silsilah/blob/master/source/svg/silsilah-mandura.png

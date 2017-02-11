@@ -42,4 +42,4 @@ Dikenal juga dengan nama *Panembahan Hadi Prabu Hanyokrowati*.
 [26]: https://github.com/epsi-rns/catatan-silsilah/blob/master/jolang/26-syekh-siti-jenar.md
 [27]: https://github.com/epsi-rns/catatan-silsilah/blob/master/jolang/27-pengging.md
 
-[svg-silsilah-rm-jolang]: https://github.com/epsi-rns/catatan-silsilah/blob/master/source/svg/silsilah-rm-jolang-bw.png
+[svg-silsilah-rm-jolang]: https://github.com/epsi-rns/catatan-silsilah/blob/master/source/svg/silsilah-rm-jolang.png

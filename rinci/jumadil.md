@@ -24,4 +24,4 @@
 [05]: https://github.com/epsi-rns/catatan-silsilah/blob/master/jumadil/05-ubaidullah.md
 [07]: https://github.com/epsi-rns/catatan-silsilah/blob/master/jumadil/07-al-faqih.md
 
-[svg-silsilah-jumadil]: https://github.com/epsi-rns/catatan-silsilah/blob/master/source/svg/silsilah-jumadil-qubro-bw.png
+[svg-silsilah-jumadil]: https://github.com/epsi-rns/catatan-silsilah/blob/master/source/svg/silsilah-jumadil-qubro.png

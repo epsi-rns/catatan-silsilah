@@ -30,6 +30,6 @@ Sekedar untuk memperumit keadaan, kedua diagram ini dapat disatukan sebagai beri
 [33]: https://github.com/epsi-rns/catatan-silsilah/blob/master/silang/33-jolang-gulu.md
 [34]: https://github.com/epsi-rns/catatan-silsilah/blob/master/silang/34-mandura-gulu.md
 
-[svg-silsilah-amangkurat]: https://github.com/epsi-rns/catatan-silsilah/blob/master/source/svg/silsilah-amangkurat-bw.png
-[svg-silsilah-kyai-gulu]:  https://github.com/epsi-rns/catatan-silsilah/blob/master/source/svg/silsilah-kyai-gulu-bw.png
-[svg-silsilah-silang]:     https://github.com/epsi-rns/catatan-silsilah/blob/master/source/svg/silsilah-silang-bw.png
+[svg-silsilah-amangkurat]: https://github.com/epsi-rns/catatan-silsilah/blob/master/source/svg/silsilah-amangkurat.png
+[svg-silsilah-kyai-gulu]:  https://github.com/epsi-rns/catatan-silsilah/blob/master/source/svg/silsilah-kyai-gulu.png
+[svg-silsilah-silang]:     https://github.com/epsi-rns/catatan-silsilah/blob/master/source/svg/silsilah-silang.png
