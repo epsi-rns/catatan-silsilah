@@ -4,7 +4,7 @@
 
 ## Silsilah (Ja'afar As-Sodiq ke Abu Bakar RA)
 
-*	» ♂ [Abu Bakar Shiddiq RA][623359]
+*	» ♂ [Abu Bakar Shiddiq R.A.][623359]
 
 *	» ♂ [Muhammad][623358]
 

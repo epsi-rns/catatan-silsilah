@@ -2,7 +2,7 @@
 
 [Halaman Utama][up] 
 
-## Silsilah (Pangeran Mandura ke Kebungsuan Pengging)
+## Silsilah (Raden Mas Rangsang ke Kebungsuan Pengging)
 
 *	» ♂ [Syaikh Maulana Jamaluddin Husein Akbar][359642]
 	<br/>(1310 M - 1453 M) Malabar-Delhi-India
@@ -13,11 +13,15 @@
 
 *	» ♂ [Muhammad Hadi][26353] (Joko Tingkir) / Sultan Hadiwijaya
 	<br/>( - 1582 M), Pajang
+	
+	*	» ♂ [Pangeran Benawa][332044] / Sultan Prabuwijaya (AbdulHalim)
+	<br/>( - 1587 M), Pajang
 
-*	» ♀ [Ratu Mas Banten][775179]
-	<br/>Pajang
+*	» ♀ [Dyah Banowati][26383] / Kanjeng Ratu Mas Hadi 
 
-*	» ♂ [Pangeran Mandura][771620]
+*	» ♂ [Sultan Agung][26069]
+	<br/>/ (Raden Mas Djatmika) (Raden Mas Rangsang)
+	<br/>(1593 M - 1645 M)
 
 Sumber: rodovid.org<br/>
 Catatan: sumber belum tentu benar.
@@ -30,5 +34,7 @@ Catatan: sumber belum tentu benar.
 [26352]: http://id.rodovid.org/wk/Orang:26352
 
 [26353]: http://id.rodovid.org/wk/Orang:26353
-[775179]: http://id.rodovid.org/wk/Orang:775179
-[771620]: http://id.rodovid.org/wk/Orang:771620
+
+[332044]: http://id.rodovid.org/wk/Orang:332044
+[26383]: http://id.rodovid.org/wk/Orang:26383
+[26069]: http://id.rodovid.org/wk/Orang:26069

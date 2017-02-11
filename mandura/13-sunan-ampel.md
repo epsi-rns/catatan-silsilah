@@ -14,7 +14,7 @@
 	<br>(Raja Bungsu, Aal Azhamat Khan BaAlawi) 
 	<br/>(1401 M - 1481 M) 
 
-*	» ♀ [Dewi Murthosiah][26643]
+*	» ♀ [Dewi Murthosiah][26643] / Raden Siti Murtasiyah 
 
 *	» ♂ [Sunan Dalem Wetan][850721] / Maulana Zainal Abidin
 	<br/>/ [Sunan Kedul][387335]

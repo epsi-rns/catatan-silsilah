@@ -32,6 +32,8 @@ repository sendiri sebagai perbaikan berdasarkan tulisan ini.
 
 ## Silsilah Jumadil Qubro
 
+Rincian diagram dapat dilihat pada halaman [Jumadil Qubro][jumadil].
+
 *	[Rasulullah SAW - Ja'afar As-Sodiq][01]
 
 *	[Abu Bakar RA - Ja'afar As-Sodiq][02]
@@ -58,10 +60,12 @@ Lalu keturunan keduanya berkumpul kembali ke dua leluhur berikut.
 *	Kyai Gulu
 
 
-![Genealogi Para Sunan dalam Diagram][jumadil]
+![Genealogi Para Sunan dalam Diagram][svg-jumadil]
 
 
 ## Raden Mas Jolang
+
+Rincian diagram dapat dilihat pada halaman [Raden Mas Jolang][jolang].
 
 Dikenal juga dengan nama *Panembahan Hadi Prabu Hanyokrowati*.
 
@@ -79,6 +83,10 @@ Dikenal juga dengan nama *Panembahan Hadi Prabu Hanyokrowati*.
 *	[Sunan Kalijaga][24]
 	<br/>(1450 M - )
 
+*Tokoh*
+
+*	[Kebungsuan Pengging][27] (Putra Jumadil Qubro)
+
 *Tambahan*
 
 *	[Syekh Siti Jenar][26]
@@ -88,6 +96,8 @@ Dikenal juga dengan nama *Panembahan Hadi Prabu Hanyokrowati*.
 
 
 ## Pangeran Mandura
+
+Rincian diagram dapat dilihat pada halaman [Pangeran Mandura][mandura].
 
 *Wali*
 
@@ -105,12 +115,14 @@ Dikenal juga dengan nama *Panembahan Hadi Prabu Hanyokrowati*.
 
 *Tokoh*
 
-*	[Pengging][17] (Putra Jumadil Qubro)
+*	[Kebungsuan Pengging][17] (Putra Jumadil Qubro)
 
 *	[Raden Patah][19] (Menantu Sunan Ampel)
 
 
 ## Persilangan
+
+Rincian diagram dapat dilihat pada halaman [persilangan][silang].
 
 Persilangan keduanya berkumpul sebagai berikut.
 
@@ -125,6 +137,8 @@ Persilangan keduanya berkumpul sebagai berikut.
 
 ## Keturunan Priyayi: Mataram
 
+Rincian diagram dapat dilihat pada halaman [priyayi][priyayi].
+
 Sumber: Rodovid
 
 *	[Pendiri][41]
@@ -137,25 +151,19 @@ Sumber: Rodovid
 
 *	[Pakualam][45]
 
-![Genealogi Mataram dalam Diagram][mataram]
+![Genealogi Mataram dalam Diagram][svg-mataram]
 
 
 ## Keturunan Santri
 
+Rincian diagram dapat dilihat pada halaman [santri][santri].
+
 Tidak banyak catatan di luar pemerintahan.
 Berikut salah satu yang ada.
 
-*	Salah satunya: [Kaliyoso][kaliyoso]
-	<br/>Sumber: Silsilah Keluarga
-	<br/>Catatan: Hanya sebagian kecil yang telah dicatat ulang ke internet (digitalisasi).
-	<br/>Ditampilkan Kyai Abdul Jalal maupun Kyai Yahya,
-	untuk meluruskan yang selama ini ditulis di internet.
+*	Salah satunya: kaliyoso.
 	<br/>Tentunya tidak dapat dibandingkan setara antara
 	kesultanan Mataram yang besar, dengan wilayah perdikan yang kecil.
-
-![Kyai Gulu][kyai-gulu]
-
-![Kyai Yahya bin Moch Qorib][moch-qorib]
 
 
 ## Mengenai Penulis
@@ -165,7 +173,11 @@ Bukan abangan, walapun sering dipanggil 'Bang'.<br/>
 Sejak lahir sudah jomblo. Dan masih selalu konsisten sampai awal 2017 ini.
 
 
-[about]: https://github.com/epsi-rns/catatan-silsilah/blob/master/about.md
+[about]:   https://github.com/epsi-rns/catatan-silsilah/blob/master/rinci/about.md
+[jumadil]: https://github.com/epsi-rns/catatan-silsilah/blob/master/rinci/jumadil.md
+[jolang]:  https://github.com/epsi-rns/catatan-silsilah/blob/master/rinci/jolang.md
+[mandura]: https://github.com/epsi-rns/catatan-silsilah/blob/master/rinci/mandura.md
+[silang]: https://github.com/epsi-rns/catatan-silsilah/blob/master/rinci/silang.md
 
 [pdf]: https://github.com/epsi-rns/catatan-silsilah/raw/master/source/pdf/catatan-silsilah-2017-januari.pdf
 
@@ -175,18 +187,15 @@ Sejak lahir sudah jomblo. Dan masih selalu konsisten sampai awal 2017 ini.
 [05]: https://github.com/epsi-rns/catatan-silsilah/blob/master/jumadil/05-ubaidullah.md
 [07]: https://github.com/epsi-rns/catatan-silsilah/blob/master/jumadil/07-al-faqih.md
 
-[jumadil]: https://github.com/epsi-rns/catatan-silsilah/blob/master/source/svg/jumadil-qubro.png
-[mataram]: https://github.com/epsi-rns/catatan-silsilah/blob/master/source/svg/mataram.png
-[kyai-gulu]:  https://github.com/epsi-rns/catatan-silsilah/blob/master/source/svg/kyai-gulu.png
-[moch-qorib]: https://github.com/epsi-rns/catatan-silsilah/blob/master/source/svg/moch-qorib.png
-
-[kaliyoso]:   https://github.com/epsi-rns/gitodipuro/blob/master/silsilah.md
+[svg-jumadil]: https://github.com/epsi-rns/catatan-silsilah/blob/master/source/svg/jumadil-qubro.png
+[svg-mataram]: https://github.com/epsi-rns/catatan-silsilah/blob/master/source/svg/mataram.png
 
 [21]: https://github.com/epsi-rns/catatan-silsilah/blob/master/jolang/21-sunan-gresik.md
 [22]: https://github.com/epsi-rns/catatan-silsilah/blob/master/jolang/22-sunan-giri.md
 [23]: https://github.com/epsi-rns/catatan-silsilah/blob/master/jolang/23-sunan-gunung-jati.md
 [24]: https://github.com/epsi-rns/catatan-silsilah/blob/master/jolang/24-sunan-kalijaga.md
 [26]: https://github.com/epsi-rns/catatan-silsilah/blob/master/jolang/26-syekh-siti-jenar.md
+[27]: https://github.com/epsi-rns/catatan-silsilah/blob/master/jolang/27-pengging.md
 
 [11]: https://github.com/epsi-rns/catatan-silsilah/blob/master/mandura/11-sunan-gresik.md
 [12]: https://github.com/epsi-rns/catatan-silsilah/blob/master/mandura/12-sunan-giri.md

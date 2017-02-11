@@ -1,3 +1,7 @@
+## Navigasi
+
+[Halaman Utama][up] 
+
 ## Mengenai Catatan Silsilah
 
 Catatan silsilah adalah gambaran awal,
@@ -30,3 +34,5 @@ karena tidak melalui studi akademis yang ilmiah,
 sehingga tidak dapat diketahui secara pasti nilai kebenarannya.
 Bilamana dibutuhkan untuk dijadikan acuan,
 silahkan untuk dikaji sendiri, lebih lanjut secara akademis.
+
+[up]: https://github.com/epsi-rns/catatan-silsilah/blob/master/README.md
