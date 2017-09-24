@@ -1,0 +1,54 @@
+Silsilah Purwosaputro Kakung
+
+
+. 620. E1. ♀. (Tambeng) Prawirosuhardjo bin H. Ngalwi
+    ├── Anak: 1517. F1. ♂. Durjat Mangunwijono
+    ├── Anak: 1518. F2. ♀. Sukamtini ke I
+    ├── Anak: 1519. F3. ♂. Tjitrosuwarno
+    ├── Anak: 1520. F4. ♂. Jusuf Purwosaputro 
+    ├── Anak: 1521. F5. ♀. Suparti Padmosutjitro
+    └── Anak: 1522. F6. ♀. Sukirah Wirjosuhardjo
+
+. 1517. F1. ♂. Durjat Mangunwijono
+    ├── Anak: 2857. G1. ♀. Sudarjati (Buchari)
+    ├── Anak: 2858. G2. ♀. Ummi (M. Badar)
+    ├── Anak: 2859. G3. ♂. Slamet
+    └── Anak: 2860. G4. ♂. Sujamtini (Mudjihardjo)
+
+. 1518. F2. ♀. Sukamtini ke I
+    ├── Anak: 2861. G1. ♂. Komari
+    ├── Anak: 2862. G2. ♂. Supomo
+    ├── Anak: 2863. G3. ♂. Suhardi
+    ├── Anak: 2864. G4. ♂. Sutidjo
+    ├── Anak: 2865. G5. ♂. Sutijo
+    └── Anak: 2866. G6. ♀. Titik Sujati
+
+. 1519. F3. ♂. Tjitrosuwarno
+    ├── Anak: 2867. G1. ♀. Sri Sumarsi
+    ├── Anak: 2868. G2. ♀. Hartati
+    ├── Anak: 2869. G3. ♂. Harjono
+    └── Anak: 2870. G$. ♂. Hardjono
+
+. 1520. F4. ♂. Jusuf Purwosaputro 
+    ├── Anak: 2065. G1. ♂. Ir. H. Sayidina P.S.
+    ├── Anak: 2066. G2. ♂. Dra. Hj. Darmastuti
+    ├── Anak: 2067. G3. ♂. Dra. Sri Koestati
+    ├── Anak: 2068. G4. ♂. Dra. Minuk Sri Respati
+    ├── Anak: 2069. G5. ♂. Drs. Putranto Bait Sadali, SE. MT
+    └── Anak: 2070. G6. ♀. DR. MAF Ir. Asmoro Fajri Tritoto
+
+. 1521. F5. ♀. Suparti Padmosutjitro
+    ├── Anak: 2871. G1. ♂. Tri Winarno
+    ├── Anak: 2872. G2. ♀. Tri Winarni
+    └── Anak: 2873. G3. ♂. Handayani
+
+. 1522. F6. ♀. Sukirah Wirjosuhardjo
+    ├── Anak: 2874. G1. ♂. Ibnu Subroto
+    ├── Anak: 2875. G2. ♀. Sri Daljati
+    ├── Anak: 2876. G3. ♂. Ibnu Subijanto
+    ├── Anak: 2877. G4. ♀. Sri Surjati
+    ├── Anak: 2878. G5. ♂. Ibnu Sutomo
+    ├── Anak: 2879. G6. ♀. Sri Suratmi
+    ├── Anak: 2880. G7. ♂. Ibnu Purwanto
+    ├── Anak: 2881. G8. ♀. Sri Suro Jekti
+    └── Anak: 2882. G9. ♀. Sri Hambawani
