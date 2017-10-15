@@ -1,0 +1,92 @@
+. Anak: ♂ Ngabei Niti Manggolo (Kyai Kerti Manggolo I)
+    │
+    ╞══ Istri 1: ♀ (dari Semanggi)
+    ├── Anak: A1 ♂ Somenggolo I
+    ├── Anak: A2 ♀ Kartotaruno
+    │
+    ╞══ Istri 2: ♀ (dari Gatak Pedan)
+    ├── Anak: A3 ♂ Abdul Djalal I
+    ├── Anak: A4 ♀ Surotaruno
+    │
+    ╞══ Istri 3: ♀ (dari Yogyakarta)
+    ├── Anak: A5 ♀ Resosetiko (Wongsokartiko)
+    ├── Anak: A6 ♂ Ismangil
+    ├── Anak: A7 ♂ Murjadi
+    ├── Anak: A8 ♂ Nitimenggolo II
+    ├── Anak: A9 ♂ Somodrono
+    └── Anak: A10 ♂ Khamdani
+
+. A1 ♂ Somenggolo I
+    ├── Anak: 1 B1 ♀ Sutomengggolo
+    ├── Anak: 2 B2 ♀ Setrodongso
+    ├── Anak: 3 B3 ♀ Abd. Kadir (12 B2)
+    ├── Anak: 4 B4 ♂ Trunomenggolo
+    ├── Anak: 5 B5 ♀ Ngarpijah
+    ├── Anak: 6 B6 ♂ Tjokoromenggolo
+    ├── Anak: 7 B7 ♀ Somenggolo II
+    ├── Anak: 8 B8 ♂ Setrodono
+    ├── Anak: 9 B9 ♀ Wiromenggolo
+    └── Anak: 10 B10 ♂ Kasan Munodo
+
+. A2 ♀ Kartotaruno
+╘══ Suami: ♂ Kartotaruno
+    ├── Anak: 11 B1 ♂ Abu Bakar
+    ├── Anak: 12 B2 ♂ Abdulkadir
+    ├── Anak: 13 B3 ♂ H. Moch Qorib (Murtodjo)
+    ├── Anak: 14 B4 ♀ Surodrono
+    ├── Anak: 15 B5 ♂ Zakarija I  (Zakarija I di Pabelan)
+    ├── Anak: 16 B6 ♂ Mustahal I
+    └── Anak: 17 B7 ♂ Abdul Rahman
+
+. A3 ♂ Abdul Djalal I
+    ├── Anak: 18 B1 ♀ Nur Salim (tidak berketurunan)
+    ├── Anak: 19 B2 ♂ Abdul Djalal II (28 B4)
+    ├── Anak: 20 B3 ♂ Minhat (22 C1)
+    ├── Anak: 21 B4 ♀ Moh. Tohir (di Logantung Delanggu)
+    ├── Anak: 22 B5 ♂ Djalaliman (di Kayuapak Bekonan)
+    ├── Anak: 23 B6 ♀ Reksowadi
+    └── Anak: 24 B7 ♂ Iman Redjo
+
+. A4 ♀ Surotaruno
+    ├── Anak: 25 B1 ♂ Ngali Mohamad
+    ├── Anak: 26 B2 ♀ Madarun II
+    ├── Anak: 27 B3 ♀ Mustahal I (16 B6)
+    └── Anak: 28 B4 ♀ Kolipah (19 B2 Abdul Jalal)
+
+. A5 ♀ Resosetiko (Wongsokartiko)
+    └── Anak: 29 B1 ♂ Martowiguno
+
+. A6 ♂ Ismangil
+    ├── Anak: 30 B1 ♂ H. Maelani
+    └── Anak: 31 B2 ♂ Asnawi
+
+. A7 ♂ Murjadi
+    └── Anak: 32 B1 ♂ Martowidjojo
+
+. A8 ♂ Nitimenggolo II
+
+. A9 ♂ Somodrono
+    ├── Anak: 33 B1 ♀ Setrodrono
+    ├── Anak: 34 B2 ♂ Sutodrono
+    └── Anak: 35 B3 ♂ Kromodrono
+
+. A10 ♂ Khamdani
+    │
+    ╞══ Istri 1: ♀ 
+    ├── Anak: 36 B1 ♂ Gunawi
+    │
+    ╞══ Istri 2: ♀ 
+    ├── Anak: 37 B2 ♂ Moh. Khamid
+    ├── Anak: 38 B3 ♂ Gunawan
+    ├── Anak: 39 B4 ♂ Ibrahim
+    │
+    ╞══ Istri 3: ♀ 
+    ├── Anak: 40 B5 ♂ Kasan Anom
+    ├── Anak: 41 B6 ♂ H. Sis (12 D1)
+    ├── Anak: 42 B7 ♂ H. Muhtar
+    ├── Anak: 43 B8 ♀ H. Maemunah
+    │
+    ╞══ Istri 4: ♀ 
+    ├── Anak: 44 B9 ♀ Sastrowidjojo
+    ├── Anak: 45 B10 ♀ H. Iskak
+    └── Anak: 46 B11 ♂ Kasan Sengodjo

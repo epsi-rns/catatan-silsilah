@@ -38,8 +38,8 @@ Sumber: Nanang Komarudin
    │   │   │   ╞══ Istri 3: ♀ ??
    │   │   │   │
    │   │   │   ╞══ Istri 4: ♀ ??
-   │   │   │   
-   │   │   └── Anak: ♀ Nyai Abdul Jalal (leluhur keluarga Kalioso)
+   │   │      
+   │   ├── Anak: ♀ Nyai Abdul Jalal (leluhur keluarga Kalioso)
    │   │
    │   └── Kyai Abdurrahman
    │
