@@ -9,14 +9,14 @@
    xmlns="http://www.w3.org/2000/svg"
    xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
    xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
-   width="430"
-   height="1100"
-   viewBox="0 0 430 1100"
+   width="400"
+   height="750"
+   viewBox="0 0 400 750"
    id="svg2"
    version="1.1"
    inkscape:version="0.92.2 5c3e80d, 2017-08-06"
-   sodipodi:docname="silsilah-jumadil-qubro.svg"
-   inkscape:export-filename="/media/Works/repository/catatan-silsilah/source/svg/silsilah-jumadil-qubro.png"
+   sodipodi:docname="silsilah-basyaiban.svg"
+   inkscape:export-filename="/media/Works/repository/catatan-silsilah/source/svg/silsilah-basyaiban.png"
    inkscape:export-xdpi="90"
    inkscape:export-ydpi="90">
   <defs
@@ -2229,6 +2229,230 @@
          result="composite2"
          id="feComposite860" />
     </filter>
+    <filter
+       style="color-interpolation-filters:sRGB"
+       inkscape:label="Drop Shadow"
+       id="filter2359">
+      <feFlood
+         flood-opacity="0.498039"
+         flood-color="rgb(0,0,0)"
+         result="flood"
+         id="feFlood2349" />
+      <feComposite
+         in="flood"
+         in2="SourceGraphic"
+         operator="in"
+         result="composite1"
+         id="feComposite2351" />
+      <feGaussianBlur
+         in="composite1"
+         stdDeviation="1"
+         result="blur"
+         id="feGaussianBlur2353" />
+      <feOffset
+         dx="3"
+         dy="3"
+         result="offset"
+         id="feOffset2355" />
+      <feComposite
+         in="SourceGraphic"
+         in2="offset"
+         operator="over"
+         result="composite2"
+         id="feComposite2357" />
+    </filter>
+    <filter
+       style="color-interpolation-filters:sRGB"
+       inkscape:label="Drop Shadow"
+       id="filter2371">
+      <feFlood
+         flood-opacity="0.498039"
+         flood-color="rgb(0,0,0)"
+         result="flood"
+         id="feFlood2361" />
+      <feComposite
+         in="flood"
+         in2="SourceGraphic"
+         operator="in"
+         result="composite1"
+         id="feComposite2363" />
+      <feGaussianBlur
+         in="composite1"
+         stdDeviation="1"
+         result="blur"
+         id="feGaussianBlur2365" />
+      <feOffset
+         dx="3"
+         dy="3"
+         result="offset"
+         id="feOffset2367" />
+      <feComposite
+         in="SourceGraphic"
+         in2="offset"
+         operator="over"
+         result="composite2"
+         id="feComposite2369" />
+    </filter>
+    <filter
+       style="color-interpolation-filters:sRGB"
+       inkscape:label="Drop Shadow"
+       id="filter2383">
+      <feFlood
+         flood-opacity="0.498039"
+         flood-color="rgb(0,0,0)"
+         result="flood"
+         id="feFlood2373" />
+      <feComposite
+         in="flood"
+         in2="SourceGraphic"
+         operator="in"
+         result="composite1"
+         id="feComposite2375" />
+      <feGaussianBlur
+         in="composite1"
+         stdDeviation="1"
+         result="blur"
+         id="feGaussianBlur2377" />
+      <feOffset
+         dx="3"
+         dy="3"
+         result="offset"
+         id="feOffset2379" />
+      <feComposite
+         in="SourceGraphic"
+         in2="offset"
+         operator="over"
+         result="composite2"
+         id="feComposite2381" />
+    </filter>
+    <filter
+       style="color-interpolation-filters:sRGB"
+       inkscape:label="Drop Shadow"
+       id="filter2395">
+      <feFlood
+         flood-opacity="0.498039"
+         flood-color="rgb(0,0,0)"
+         result="flood"
+         id="feFlood2385" />
+      <feComposite
+         in="flood"
+         in2="SourceGraphic"
+         operator="in"
+         result="composite1"
+         id="feComposite2387" />
+      <feGaussianBlur
+         in="composite1"
+         stdDeviation="1"
+         result="blur"
+         id="feGaussianBlur2389" />
+      <feOffset
+         dx="3"
+         dy="3"
+         result="offset"
+         id="feOffset2391" />
+      <feComposite
+         in="SourceGraphic"
+         in2="offset"
+         operator="over"
+         result="composite2"
+         id="feComposite2393" />
+    </filter>
+    <filter
+       style="color-interpolation-filters:sRGB"
+       inkscape:label="Drop Shadow"
+       id="filter2407">
+      <feFlood
+         flood-opacity="0.498039"
+         flood-color="rgb(0,0,0)"
+         result="flood"
+         id="feFlood2397" />
+      <feComposite
+         in="flood"
+         in2="SourceGraphic"
+         operator="in"
+         result="composite1"
+         id="feComposite2399" />
+      <feGaussianBlur
+         in="composite1"
+         stdDeviation="1"
+         result="blur"
+         id="feGaussianBlur2401" />
+      <feOffset
+         dx="3"
+         dy="3"
+         result="offset"
+         id="feOffset2403" />
+      <feComposite
+         in="SourceGraphic"
+         in2="offset"
+         operator="over"
+         result="composite2"
+         id="feComposite2405" />
+    </filter>
+    <filter
+       style="color-interpolation-filters:sRGB"
+       inkscape:label="Drop Shadow"
+       id="filter2419">
+      <feFlood
+         flood-opacity="0.498039"
+         flood-color="rgb(0,0,0)"
+         result="flood"
+         id="feFlood2409" />
+      <feComposite
+         in="flood"
+         in2="SourceGraphic"
+         operator="in"
+         result="composite1"
+         id="feComposite2411" />
+      <feGaussianBlur
+         in="composite1"
+         stdDeviation="1"
+         result="blur"
+         id="feGaussianBlur2413" />
+      <feOffset
+         dx="3"
+         dy="3"
+         result="offset"
+         id="feOffset2415" />
+      <feComposite
+         in="SourceGraphic"
+         in2="offset"
+         operator="over"
+         result="composite2"
+         id="feComposite2417" />
+    </filter>
+    <filter
+       style="color-interpolation-filters:sRGB"
+       inkscape:label="Drop Shadow"
+       id="filter2431">
+      <feFlood
+         flood-opacity="0.498039"
+         flood-color="rgb(0,0,0)"
+         result="flood"
+         id="feFlood2421" />
+      <feComposite
+         in="flood"
+         in2="SourceGraphic"
+         operator="in"
+         result="composite1"
+         id="feComposite2423" />
+      <feGaussianBlur
+         in="composite1"
+         stdDeviation="1"
+         result="blur"
+         id="feGaussianBlur2425" />
+      <feOffset
+         dx="3"
+         dy="3"
+         result="offset"
+         id="feOffset2427" />
+      <feComposite
+         in="SourceGraphic"
+         in2="offset"
+         operator="over"
+         result="composite2"
+         id="feComposite2429" />
+    </filter>
   </defs>
   <sodipodi:namedview
      id="base"
@@ -2238,10 +2462,10 @@
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
      inkscape:zoom="0.9271028"
-     inkscape:cx="-119.57527"
-     inkscape:cy="372.59335"
+     inkscape:cx="244.03838"
+     inkscape:cy="375.96219"
      inkscape:document-units="px"
-     inkscape:current-layer="g1483"
+     inkscape:current-layer="layer2"
      showgrid="false"
      inkscape:window-width="1900"
      inkscape:window-height="981"
@@ -2275,700 +2499,116 @@
      inkscape:groupmode="layer"
      id="layer2"
      inkscape:label="Background"
-     transform="translate(0,570)"
+     transform="translate(0,220)"
      sodipodi:insensitive="true">
     <rect
-       style="opacity:1;fill:#ffffff;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:0.99999994;stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+       style="opacity:1;fill:#ffffff;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:1;stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
        id="rect4924"
-       width="430"
-       height="1100"
+       width="400"
+       height="750"
        x="0"
-       y="-570" />
+       y="-220" />
   </g>
   <g
      inkscape:label="Diagram"
      inkscape:groupmode="layer"
      id="layer1"
-     transform="translate(10,37.63794)">
-    <text
-       id="text4519"
-       y="-316.12897"
-       x="24.832352"
-       style="font-style:normal;font-weight:normal;font-size:40px;line-height:125%;font-family:Sans;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;filter:url(#filter490)"
-       xml:space="preserve"><tspan
-         y="-280.09879"
-         x="24.832352"
-         id="tspan4521"
-         sodipodi:role="line" /></text>
+     transform="translate(10,-312.36206)">
     <g
-       id="g287"
-       transform="translate(-65,-625)"
-       style="filter:url(#filter502)">
+       id="g1897"
+       style="filter:url(#filter2359)"
+       transform="translate(-20,25)">
       <rect
          style="opacity:1;fill:#2196f3;fill-opacity:1;fill-rule:evenodd;stroke:#000000;stroke-width:1;stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
-         id="rect281"
-         width="198.99998"
-         height="25"
-         x="75.5"
-         y="591.86206" />
-      <text
-         id="text285"
-         y="609.55676"
-         x="175.07324"
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:15px;line-height:125%;font-family:Oswald;-inkscape-font-specification:'Oswald, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:center;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
-         xml:space="preserve"><tspan
-           sodipodi:role="line"
-           id="tspan4216"
-           x="175.07324"
-           y="609.55676">Rasulullah Muhamad S.A.W.</tspan></text>
-    </g>
-    <g
-       transform="translate(-65,-575)"
-       id="g303"
-       style="filter:url(#filter514)">
-      <rect
-         y="591.86206"
-         x="100.5"
-         height="25"
-         width="149"
-         id="rect297"
-         style="opacity:1;fill:#f06292;fill-opacity:1;fill-rule:evenodd;stroke:#000000;stroke-width:1;stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1" />
-      <text
-         xml:space="preserve"
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:15px;line-height:125%;font-family:Oswald;-inkscape-font-specification:'Oswald, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:center;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
-         x="174.98535"
-         y="609.55676"
-         id="text301"><tspan
-           sodipodi:role="line"
-           id="tspan474"
-           x="174.98535"
-           y="609.55676">Fatima Az Zahra</tspan></text>
-    </g>
-    <g
-       id="g347"
-       transform="translate(-65,-525)"
-       style="filter:url(#filter526)">
-      <rect
-         style="opacity:1;fill:#2196f3;fill-opacity:1;fill-rule:evenodd;stroke:#000000;stroke-width:1;stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
-         id="rect341"
-         width="149"
-         height="25"
-         x="100.5"
-         y="591.86206" />
-      <text
-         id="text345"
-         y="609.55676"
-         x="174.98535"
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:15px;line-height:125%;font-family:Oswald;-inkscape-font-specification:'Oswald, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:center;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
-         xml:space="preserve"><tspan
-           sodipodi:role="line"
-           id="tspan476"
-           x="174.98535"
-           y="609.55676">Husayn Ibn Ali</tspan></text>
-    </g>
-    <g
-       transform="translate(-65,-425)"
-       id="g419"
-       style="filter:url(#filter538)">
-      <rect
-         y="591.86206"
-         x="100.5"
-         height="25"
-         width="149"
-         id="rect413"
-         style="opacity:1;fill:#2196f3;fill-opacity:1;fill-rule:evenodd;stroke:#000000;stroke-width:1;stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1" />
-      <text
-         xml:space="preserve"
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:15px;line-height:125%;font-family:Oswald;-inkscape-font-specification:'Oswald, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:center;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
-         x="174.98535"
-         y="609.55676"
-         id="text417"><tspan
-           sodipodi:role="line"
-           id="tspan496"
-           x="174.98535"
-           y="609.55676">Muhammad Al Baqir</tspan></text>
-    </g>
-    <g
-       id="g535"
-       transform="translate(35,-375)"
-       style="filter:url(#filter550)">
-      <rect
-         style="opacity:1;fill:#2196f3;fill-opacity:1;fill-rule:evenodd;stroke:#000000;stroke-width:1;stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
-         id="rect529"
-         width="149"
-         height="25"
-         x="100.5"
-         y="591.86206" />
-      <text
-         id="text533"
-         y="609.55676"
-         x="174.98535"
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:15px;line-height:125%;font-family:Oswald;-inkscape-font-specification:'Oswald, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:center;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
-         xml:space="preserve"><tspan
-           sodipodi:role="line"
-           id="tspan500"
-           x="174.98535"
-           y="609.55676">Ja'afar As-Sodiq</tspan></text>
-    </g>
-    <g
-       id="g588"
-       transform="translate(-130,-270)"
-       style="filter:url(#filter562)">
-      <rect
-         style="opacity:1;fill:#2196f3;fill-opacity:1;fill-rule:evenodd;stroke:#000000;stroke-width:1;stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
-         id="rect541"
-         width="149"
-         height="25"
-         x="265.5"
-         y="536.86206" />
-      <text
-         id="text545"
-         y="554.55676"
-         x="339.98535"
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:15px;line-height:125%;font-family:Oswald;-inkscape-font-specification:'Oswald, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:center;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
-         xml:space="preserve"><tspan
-           sodipodi:role="line"
-           id="tspan568"
-           x="339.98535"
-           y="554.55676">Ali Al-'Uraidhi</tspan></text>
-    </g>
-    <g
-       transform="translate(-65,-475)"
-       id="g486"
-       style="filter:url(#filter574)">
-      <rect
-         y="591.86206"
-         x="100.5"
-         height="25"
-         width="149"
-         id="rect480"
-         style="opacity:1;fill:#2196f3;fill-opacity:1;fill-rule:evenodd;stroke:#000000;stroke-width:1;stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1" />
-      <text
-         xml:space="preserve"
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:15px;line-height:125%;font-family:Oswald;-inkscape-font-specification:'Oswald, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:center;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
-         x="174.98535"
-         y="609.55676"
-         id="text484"><tspan
-           sodipodi:role="line"
-           id="tspan494"
-           x="174.98535"
-           y="609.55676">Ali Zainal Abidin</tspan></text>
-    </g>
-    <g
-       transform="translate(135,-575)"
-       id="g508"
-       style="filter:url(#filter586)">
-      <rect
-         y="591.86206"
-         x="85.5"
-         height="25"
+         id="rect1862"
          width="179"
-         id="rect502"
-         style="opacity:1;fill:#2196f3;fill-opacity:1;fill-rule:evenodd;stroke:#000000;stroke-width:1;stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1" />
+         height="25"
+         x="120.5"
+         y="316.86206" />
       <text
          xml:space="preserve"
          style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:15px;line-height:125%;font-family:Oswald;-inkscape-font-specification:'Oswald, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:center;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
-         x="174.98535"
-         y="609.55676"
-         id="text506"><tspan
-           sodipodi:role="line"
-           id="tspan564"
-           x="174.98535"
-           y="609.55676">Abu Bakar Shiddiq R.A.</tspan></text>
-    </g>
-    <g
-       id="g516"
-       transform="translate(135,-475)"
-       style="filter:url(#filter598)">
-      <rect
-         style="opacity:1;fill:#2196f3;fill-opacity:1;fill-rule:evenodd;stroke:#000000;stroke-width:1;stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
-         id="rect510"
-         width="149"
-         height="25"
-         x="100.5"
-         y="591.86206" />
-      <text
-         id="text514"
-         y="609.55676"
-         x="174.98535"
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:15px;line-height:125%;font-family:Oswald;-inkscape-font-specification:'Oswald, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:center;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
-         xml:space="preserve"><tspan
-           sodipodi:role="line"
-           id="tspan562"
-           x="174.98535"
-           y="609.55676">Qasim</tspan></text>
-    </g>
-    <g
-       id="g524"
-       transform="translate(135,-425)"
-       style="filter:url(#filter610)">
-      <rect
-         style="opacity:1;fill:#f06292;fill-opacity:1;fill-rule:evenodd;stroke:#000000;stroke-width:1;stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
-         id="rect518"
-         width="149"
-         height="25"
-         x="100.5"
-         y="591.86206" />
-      <text
-         id="text522"
-         y="609.55676"
-         x="174.98535"
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:15px;line-height:125%;font-family:Oswald;-inkscape-font-specification:'Oswald, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:center;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
-         xml:space="preserve"><tspan
-           sodipodi:role="line"
-           id="tspan558"
-           x="174.98535"
-           y="609.55676">Ummu Farwah</tspan></text>
-    </g>
-    <g
-       id="g532"
-       transform="translate(135,-525)"
-       style="filter:url(#filter622)">
-      <rect
-         style="opacity:1;fill:#2196f3;fill-opacity:1;fill-rule:evenodd;stroke:#000000;stroke-width:1;stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
-         id="rect526"
-         width="149"
-         height="25"
-         x="100.5"
-         y="591.86206" />
-      <text
-         id="text530"
-         y="609.55676"
-         x="174.98535"
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:15px;line-height:125%;font-family:Oswald;-inkscape-font-specification:'Oswald, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:center;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
-         xml:space="preserve"><tspan
-           sodipodi:role="line"
-           id="tspan560"
-           x="174.98535"
-           y="609.55676">Muhammad</tspan></text>
-    </g>
-    <g
-       transform="translate(-130,-220)"
-       id="g605"
-       style="filter:url(#filter634)">
-      <rect
-         y="536.86206"
-         x="265.5"
-         height="25"
-         width="149"
-         id="rect599"
-         style="opacity:1;fill:#2196f3;fill-opacity:1;fill-rule:evenodd;stroke:#000000;stroke-width:1;stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1" />
-      <text
-         xml:space="preserve"
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:15px;line-height:125%;font-family:Oswald;-inkscape-font-specification:'Oswald, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:center;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
-         x="339.98535"
-         y="554.55676"
-         id="text603"><tspan
-           sodipodi:role="line"
-           id="tspan641"
-           x="339.98535"
-           y="554.55676">Muhammad An-Naqib</tspan></text>
-    </g>
-    <g
-       id="g619"
-       transform="translate(-130,-170)"
-       style="filter:url(#filter646)">
-      <rect
-         style="opacity:1;fill:#2196f3;fill-opacity:1;fill-rule:evenodd;stroke:#000000;stroke-width:1;stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
-         id="rect613"
-         width="149"
-         height="25"
-         x="265.5"
-         y="536.86206" />
-      <text
-         id="text617"
-         y="554.55676"
-         x="339.98535"
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:15px;line-height:125%;font-family:Oswald;-inkscape-font-specification:'Oswald, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:center;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
-         xml:space="preserve"><tspan
-           sodipodi:role="line"
-           id="tspan643"
-           x="339.98535"
-           y="554.55676">Isa Ar-Rumi</tspan></text>
-    </g>
-    <g
-       transform="translate(-130,-120)"
-       id="g633"
-       style="filter:url(#filter658)">
-      <rect
-         y="536.86206"
-         x="265.5"
-         height="25"
-         width="149"
-         id="rect627"
-         style="opacity:1;fill:#2196f3;fill-opacity:1;fill-rule:evenodd;stroke:#000000;stroke-width:1;stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1" />
-      <text
-         xml:space="preserve"
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:15px;line-height:125%;font-family:Oswald;-inkscape-font-specification:'Oswald, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:center;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
-         x="339.98535"
-         y="554.55676"
-         id="text631"><tspan
-           sodipodi:role="line"
-           id="tspan645"
-           x="339.98535"
-           y="554.55676">Ahmad Al Muhajir</tspan></text>
-    </g>
-    <g
-       id="g675"
-       transform="translate(-130,-70.000001)"
-       style="filter:url(#filter670)">
-      <rect
-         style="opacity:1;fill:#2196f3;fill-opacity:1;fill-rule:evenodd;stroke:#000000;stroke-width:1;stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
-         id="rect669"
-         width="149"
-         height="25"
-         x="265.5"
-         y="536.86206" />
-      <text
-         id="text673"
-         y="554.55676"
-         x="339.98535"
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:15px;line-height:125%;font-family:Oswald;-inkscape-font-specification:'Oswald, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:center;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
-         xml:space="preserve"><tspan
-           sodipodi:role="line"
-           id="tspan677"
-           x="339.98535"
-           y="554.55676">Ubaidullah</tspan></text>
-    </g>
-    <g
-       transform="translate(-230,-20.000001)"
-       id="g685"
-       style="filter:url(#filter682)">
-      <rect
-         y="536.86206"
-         x="265.5"
-         height="25"
-         width="149"
-         id="rect679"
-         style="opacity:1;fill:#2196f3;fill-opacity:1;fill-rule:evenodd;stroke:#000000;stroke-width:1;stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1" />
-      <text
-         xml:space="preserve"
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:15px;line-height:125%;font-family:Oswald;-inkscape-font-specification:'Oswald, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:center;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
-         x="339.98535"
-         y="554.55676"
-         id="text683"><tspan
-           sodipodi:role="line"
-           id="tspan695"
-           x="339.98535"
-           y="554.55676">Alwi Awwal</tspan></text>
-    </g>
-    <g
-       id="g693"
-       transform="translate(-30,-20.000001)"
-       style="filter:url(#filter694)">
-      <rect
-         style="opacity:1;fill:#2196f3;fill-opacity:1;fill-rule:evenodd;stroke:#000000;stroke-width:1;stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
-         id="rect687"
-         width="149"
-         height="25"
-         x="265.5"
-         y="536.86206" />
-      <text
-         id="text691"
-         y="554.55676"
-         x="339.98535"
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:15px;line-height:125%;font-family:Oswald;-inkscape-font-specification:'Oswald, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:center;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
-         xml:space="preserve"><tspan
-           sodipodi:role="line"
-           id="tspan4568"
-           x="339.98535"
-           y="554.55676">Jadid bin Ubaidillah</tspan></text>
-    </g>
-    <g
-       id="g4471"
-       transform="translate(-230,29.999999)"
-       style="filter:url(#filter706)">
-      <rect
-         style="opacity:1;fill:#2196f3;fill-opacity:1;fill-rule:evenodd;stroke:#000000;stroke-width:1;stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
-         id="rect4465"
-         width="149"
-         height="25"
-         x="265.5"
-         y="536.86206" />
-      <text
-         id="text4469"
-         y="554.55676"
-         x="339.98535"
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:15px;line-height:125%;font-family:Oswald;-inkscape-font-specification:'Oswald, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:center;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
-         xml:space="preserve"><tspan
-           sodipodi:role="line"
-           id="tspan4524"
-           x="339.98535"
-           y="554.55676">M. Sohibus Saumi'ah</tspan></text>
-    </g>
-    <g
-       transform="translate(-30,29.999999)"
-       id="g4479"
-       style="filter:url(#filter718)">
-      <rect
-         y="536.86206"
-         x="265.5"
-         height="25"
-         width="149"
-         id="rect4473"
-         style="opacity:1;fill:#2196f3;fill-opacity:1;fill-rule:evenodd;stroke:#000000;stroke-width:1;stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1" />
-      <text
-         xml:space="preserve"
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:15px;line-height:125%;font-family:Oswald;-inkscape-font-specification:'Oswald, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:center;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
-         x="339.98535"
-         y="554.55676"
-         id="text4477"><tspan
-           sodipodi:role="line"
-           id="tspan4570"
-           x="339.98535"
-           y="554.55676">Ali bin Jadid</tspan></text>
-    </g>
-    <g
-       transform="translate(-230,80)"
-       id="g4499"
-       style="filter:url(#filter730)">
-      <rect
-         y="536.86206"
-         x="265.5"
-         height="25"
-         width="149"
-         id="rect4493"
-         style="opacity:1;fill:#2196f3;fill-opacity:1;fill-rule:evenodd;stroke:#000000;stroke-width:1;stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1" />
-      <text
-         xml:space="preserve"
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:15px;line-height:125%;font-family:Oswald;-inkscape-font-specification:'Oswald, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:center;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
-         x="339.98535"
-         y="554.55676"
-         id="text4497"><tspan
-           sodipodi:role="line"
-           id="tspan4526"
-           x="339.98535"
-           y="554.55676">Alwi Ats-Tsani</tspan></text>
-    </g>
-    <g
-       id="g4507"
-       transform="translate(-30,80)"
-       style="filter:url(#filter742)">
-      <rect
-         style="opacity:1;fill:#2196f3;fill-opacity:1;fill-rule:evenodd;stroke:#000000;stroke-width:1;stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
-         id="rect4501"
-         width="149"
-         height="25"
-         x="265.5"
-         y="536.86206" />
-      <text
-         id="text4505"
-         y="554.55676"
-         x="339.98535"
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:15px;line-height:125%;font-family:Oswald;-inkscape-font-specification:'Oswald, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:center;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
-         xml:space="preserve"><tspan
-           sodipodi:role="line"
-           id="tspan4572"
-           x="339.98535"
-           y="554.55676">Muhammad bin Ali</tspan></text>
-    </g>
-    <g
-       id="g4580"
-       transform="translate(-230,130)"
-       style="filter:url(#filter754)">
-      <rect
-         style="opacity:1;fill:#2196f3;fill-opacity:1;fill-rule:evenodd;stroke:#000000;stroke-width:1;stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
-         id="rect4574"
-         width="149"
-         height="25"
-         x="265.5"
-         y="536.86206" />
-      <text
-         id="text4578"
-         y="554.55676"
-         x="339.98535"
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:15px;line-height:125%;font-family:Oswald;-inkscape-font-specification:'Oswald, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:center;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
-         xml:space="preserve"><tspan
-           sodipodi:role="line"
-           id="tspan4660"
-           x="339.98535"
-           y="554.55676">Ali Kholi' Qosam</tspan></text>
-    </g>
-    <g
-       transform="translate(-30,130)"
-       id="g4588"
-       style="filter:url(#filter766)">
-      <rect
-         y="536.86206"
-         x="265.5"
-         height="25"
-         width="149"
-         id="rect4582"
-         style="opacity:1;fill:#f06292;fill-opacity:1;fill-rule:evenodd;stroke:#000000;stroke-width:1;stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1" />
-      <text
-         xml:space="preserve"
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:15px;line-height:125%;font-family:Oswald;-inkscape-font-specification:'Oswald, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:center;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
-         x="339.98535"
-         y="554.55676"
-         id="text4586"><tspan
-           sodipodi:role="line"
-           id="tspan4668"
-           x="339.98535"
-           y="554.55676">Syarifah Fathimah</tspan></text>
-    </g>
-    <g
-       transform="translate(-130,180)"
-       id="g4596"
-       style="filter:url(#filter778)">
-      <rect
-         y="536.86206"
-         x="265.5"
-         height="25"
-         width="149"
-         id="rect4590"
-         style="opacity:1;fill:#2196f3;fill-opacity:1;fill-rule:evenodd;stroke:#000000;stroke-width:1;stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1" />
-      <text
-         xml:space="preserve"
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:15px;line-height:125%;font-family:Oswald;-inkscape-font-specification:'Oswald, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:center;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
-         x="339.98535"
-         y="554.55676"
+         x="209.98535"
+         y="334.55676"
          id="text4594"><tspan
            sodipodi:role="line"
            id="tspan4664"
-           x="339.98535"
-           y="554.55676">M. Shohib Mirbath</tspan></text>
+           x="209.98535"
+           y="334.55676">M. Shohib Mirbath</tspan></text>
     </g>
     <g
-       id="g4612"
-       transform="translate(-130,280)"
-       style="filter:url(#filter790)">
+       id="g1907"
+       style="filter:url(#filter2383)"
+       transform="translate(-20,25)">
       <rect
          style="opacity:1;fill:#2196f3;fill-opacity:1;fill-rule:evenodd;stroke:#000000;stroke-width:1;stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
-         id="rect4606"
-         width="149"
+         id="rect1858"
+         width="179"
          height="25"
-         x="265.5"
-         y="536.86206" />
+         x="120.5"
+         y="416.86206" />
       <text
          id="text4610"
-         y="554.55676"
-         x="339.98535"
+         y="434.55676"
+         x="209.98535"
          style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:15px;line-height:125%;font-family:Oswald;-inkscape-font-specification:'Oswald, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:center;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
          xml:space="preserve"><tspan
            sodipodi:role="line"
-           id="tspan4666"
-           x="339.98535"
-           y="554.55676">Alawi Ammil Al Fagih</tspan></text>
+           id="tspan1490"
+           x="209.98535"
+           y="434.55676">M. al-Fagih Muqaddam</tspan></text>
     </g>
     <g
-       id="g4686"
-       transform="translate(-130,330)"
-       style="filter:url(#filter802)">
-      <rect
-         style="opacity:1;fill:#ffffff;fill-opacity:1;fill-rule:evenodd;stroke:#000000;stroke-width:1;stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
-         id="rect4680"
-         width="149"
-         height="25"
-         x="265.5"
-         y="536.86206" />
-      <text
-         id="text4684"
-         y="554.55676"
-         x="339.98535"
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:15px;line-height:125%;font-family:Oswald;-inkscape-font-specification:'Oswald, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:center;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
-         xml:space="preserve"><tspan
-           sodipodi:role="line"
-           id="tspan4708"
-           x="339.98535"
-           y="554.55676">Sayyid Abdul Malik</tspan></text>
-    </g>
-    <g
-       transform="translate(-130,380)"
-       id="g4694"
-       style="filter:url(#filter814)">
-      <rect
-         y="536.86206"
-         x="265.5"
-         height="25"
-         width="149"
-         id="rect4688"
-         style="opacity:1;fill:#ffffff;fill-opacity:1;fill-rule:evenodd;stroke:#000000;stroke-width:1;stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1" />
-      <text
-         xml:space="preserve"
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:15px;line-height:125%;font-family:Oswald;-inkscape-font-specification:'Oswald, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:center;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
-         x="339.98535"
-         y="554.55676"
-         id="text4692"><tspan
-           sodipodi:role="line"
-           id="tspan4710"
-           x="339.98535"
-           y="554.55676">Al-Amir Abdullah Azmatkhan</tspan></text>
+       id="g1917"
+       style="filter:url(#filter2407)"
+       transform="translate(-20,25)">
       <rect
          style="opacity:1;fill:#2196f3;fill-opacity:1;fill-rule:evenodd;stroke:#000000;stroke-width:1;stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
          id="rect4722"
          width="179"
          height="25"
-         x="250.5"
-         y="536.86206" />
+         x="120.5"
+         y="516.86206" />
       <text
          id="text4726"
-         y="554.55676"
-         x="339.98535"
+         y="534.55676"
+         x="209.98535"
          style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:15px;line-height:125%;font-family:Oswald;-inkscape-font-specification:'Oswald, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:center;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
          xml:space="preserve"><tspan
-           id="tspan4724"
            sodipodi:role="line"
-           x="339.98535"
-           y="554.55676">Al-Amir Abdullah Azmatkhan</tspan></text>
+           id="tspan1488"
+           x="209.98535"
+           y="534.55676">Hasan at Turabi</tspan></text>
     </g>
     <g
-       transform="translate(-130,330)"
-       id="g4720"
-       style="filter:url(#filter826)">
+       id="g1912"
+       style="filter:url(#filter2395)"
+       transform="translate(-20,25)">
       <rect
-         y="536.86206"
-         x="265.5"
+         y="466.86206"
+         x="120.5"
          height="25"
-         width="149"
-         id="rect4714"
+         width="179"
+         id="rect1856"
          style="opacity:1;fill:#2196f3;fill-opacity:1;fill-rule:evenodd;stroke:#000000;stroke-width:1;stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1" />
       <text
          xml:space="preserve"
          style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:15px;line-height:125%;font-family:Oswald;-inkscape-font-specification:'Oswald, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:center;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
-         x="339.98535"
-         y="554.55676"
+         x="209.98535"
+         y="484.55676"
          id="text4718"><tspan
-           id="tspan4716"
            sodipodi:role="line"
-           x="339.98535"
-           y="554.55676">Sayyid Abdul Malik</tspan></text>
+           id="tspan1486"
+           x="209.98535"
+           y="484.55676">Ali</tspan></text>
     </g>
     <g
-       transform="translate(-130,430)"
-       id="g4748"
-       style="filter:url(#filter838)">
+       id="g1927"
+       style="filter:url(#filter2431)"
+       transform="translate(-20,25)">
       <rect
-         y="536.86206"
-         x="265.5"
-         height="25"
-         width="149"
-         id="rect4742"
-         style="opacity:1;fill:#ffffff;fill-opacity:1;fill-rule:evenodd;stroke:#000000;stroke-width:1;stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1" />
-      <text
-         xml:space="preserve"
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:15px;line-height:125%;font-family:Oswald;-inkscape-font-specification:'Oswald, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:center;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
-         x="339.98535"
-         y="554.55676"
-         id="text4746"><tspan
-           id="tspan4744"
-           sodipodi:role="line"
-           x="339.98535"
-           y="554.55676">Sayyid Abdul Malik</tspan></text>
-    </g>
-    <g
-       id="g4762"
-       transform="translate(-130,480)"
-       style="filter:url(#filter850)">
-      <rect
-         style="opacity:1;fill:#ffffff;fill-opacity:1;fill-rule:evenodd;stroke:#000000;stroke-width:1;stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
-         id="rect4750"
-         width="149"
-         height="25"
-         x="265.5"
-         y="536.86206" />
-      <rect
-         y="536.86206"
-         x="250.5"
+         y="616.86206"
+         x="120.5"
          height="25"
          width="179"
          id="rect4756"
@@ -2976,55 +2616,206 @@
       <text
          xml:space="preserve"
          style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:15px;line-height:125%;font-family:Oswald;-inkscape-font-specification:'Oswald, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:center;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
-         x="339.98535"
-         y="554.55725"
+         x="209.98535"
+         y="634.55725"
          id="text4760"><tspan
            sodipodi:role="line"
-           id="tspan4802"
-           x="339.98535"
-           y="554.55725">S.M. Jamaluddin Husein Akbar</tspan></text>
+           id="tspan1494"
+           x="209.98535"
+           y="634.55725">Abu Bakar Basyaiban</tspan></text>
     </g>
     <g
-       id="g4770"
-       transform="translate(-130,430)"
-       style="filter:url(#filter862)">
+       id="g1922"
+       style="filter:url(#filter2419)"
+       transform="translate(-20,25)">
       <rect
          style="opacity:1;fill:#2196f3;fill-opacity:1;fill-rule:evenodd;stroke:#000000;stroke-width:1;stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
          id="rect4764"
          width="179"
          height="25"
-         x="250.5"
-         y="536.86206" />
+         x="120.5"
+         y="566.86206" />
       <text
          id="text4768"
-         y="554.55676"
-         x="339.98535"
+         y="584.55676"
+         x="209.98535"
          style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:15px;line-height:125%;font-family:Oswald;-inkscape-font-specification:'Oswald, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:center;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
          xml:space="preserve"><tspan
            sodipodi:role="line"
-           id="tspan4804"
-           x="339.98535"
-           y="554.55676">S.S. Ahmad Syah Jalaluddin</tspan></text>
+           id="tspan1492"
+           x="209.98535"
+           y="584.55676">Muhammad Assadullah</tspan></text>
     </g>
     <g
-       style="filter:url(#filter790)"
-       transform="translate(-130,230)"
-       id="g1483">
+       id="g1902"
+       style="filter:url(#filter2371)"
+       transform="translate(-20,25)">
       <rect
-         y="536.86206"
-         x="265.5"
+         y="366.86206"
+         x="120.5"
          height="25"
-         width="149"
-         id="rect1477"
+         width="179"
+         id="rect1860"
          style="opacity:1;fill:#2196f3;fill-opacity:1;fill-rule:evenodd;stroke:#000000;stroke-width:1;stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1" />
       <text
          xml:space="preserve"
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:15px;line-height:125%;font-family:Oswald;-inkscape-font-specification:'Oswald, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:center;letter-spacing:0px;word-spacing:0px;writing-mode:lr;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;"
-         x="339.98535"
-         y="554.55676"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:15px;line-height:125%;font-family:Oswald;-inkscape-font-specification:'Oswald, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:center;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+         x="209.98535"
+         y="384.55676"
          id="text1481"><tspan
            sodipodi:role="line"
-           id="tspan1491">Ali</tspan></text>
+           id="tspan1491"
+           x="209.98535"
+           y="384.55676">Ali</tspan></text>
+    </g>
+    <g
+       style="filter:url(#filter2383)"
+       id="g2493"
+       transform="translate(-20,325)">
+      <rect
+         y="416.86206"
+         x="120.5"
+         height="25"
+         width="179"
+         id="rect2487"
+         style="opacity:1;fill:#2196f3;fill-opacity:1;fill-rule:evenodd;stroke:#000000;stroke-width:1;stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1" />
+      <text
+         xml:space="preserve"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:15px;line-height:125%;font-family:Oswald;-inkscape-font-specification:'Oswald, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:center;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+         x="209.98535"
+         y="434.55676"
+         id="text2491"><tspan
+           sodipodi:role="line"
+           id="tspan2537"
+           x="209.98535"
+           y="434.55676">Muhammad al Syaibah</tspan></text>
+    </g>
+    <g
+       style="filter:url(#filter2407)"
+       id="g2501"
+       transform="translate(-20,325)">
+      <rect
+         y="516.86206"
+         x="120.5"
+         height="25"
+         width="179"
+         id="rect2495"
+         style="opacity:1;fill:#2196f3;fill-opacity:1;fill-rule:evenodd;stroke:#000000;stroke-width:1;stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1" />
+      <text
+         xml:space="preserve"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:15px;line-height:125%;font-family:Oswald;-inkscape-font-specification:'Oswald, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:center;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+         x="209.98535"
+         y="534.55676"
+         id="text2499"><tspan
+           sodipodi:role="line"
+           id="tspan2541"
+           x="209.98535"
+           y="534.55676">Abdurrahman</tspan></text>
+    </g>
+    <g
+       style="filter:url(#filter2395)"
+       id="g2509"
+       transform="translate(-20,325)">
+      <rect
+         style="opacity:1;fill:#2196f3;fill-opacity:1;fill-rule:evenodd;stroke:#000000;stroke-width:1;stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+         id="rect2503"
+         width="179"
+         height="25"
+         x="120.5"
+         y="466.86206" />
+      <text
+         id="text2507"
+         y="484.55676"
+         x="209.98535"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:15px;line-height:125%;font-family:Oswald;-inkscape-font-specification:'Oswald, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:center;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+         xml:space="preserve"><tspan
+           sodipodi:role="line"
+           id="tspan2539"
+           x="209.98535"
+           y="484.55676">Umar al Faqih</tspan></text>
+    </g>
+    <g
+       style="filter:url(#filter2431)"
+       id="g2517"
+       transform="translate(-20,325)">
+      <rect
+         style="opacity:1;fill:#2196f3;fill-opacity:1;fill-rule:evenodd;stroke:#000000;stroke-width:1;stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+         id="rect2511"
+         width="179"
+         height="25"
+         x="120.5"
+         y="616.86206" />
+      <text
+         id="text2515"
+         y="634.55725"
+         x="209.98535"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:15px;line-height:125%;font-family:Oswald;-inkscape-font-specification:'Oswald, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:center;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+         xml:space="preserve"><tspan
+           sodipodi:role="line"
+           id="tspan2545"
+           x="209.98535"
+           y="634.55725">Abu Hafs Umar</tspan></text>
+      <rect
+         y="666.86206"
+         x="120.5"
+         height="25"
+         width="179"
+         id="rect2547"
+         style="opacity:1;fill:#2196f3;fill-opacity:1;fill-rule:evenodd;stroke:#000000;stroke-width:1;stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1" />
+      <text
+         xml:space="preserve"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:15px;line-height:125%;font-family:Oswald;-inkscape-font-specification:'Oswald, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:center;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+         x="209.98535"
+         y="684.55725"
+         id="text2551"><tspan
+           id="tspan2549"
+           sodipodi:role="line"
+           x="209.98535"
+           y="684.55725">Abdurrahman Tajuddin</tspan></text>
+    </g>
+    <g
+       style="filter:url(#filter2419)"
+       id="g2525"
+       transform="translate(-20,325)">
+      <rect
+         y="566.86206"
+         x="120.5"
+         height="25"
+         width="179"
+         id="rect2519"
+         style="opacity:1;fill:#2196f3;fill-opacity:1;fill-rule:evenodd;stroke:#000000;stroke-width:1;stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1" />
+      <text
+         xml:space="preserve"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:15px;line-height:125%;font-family:Oswald;-inkscape-font-specification:'Oswald, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:center;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+         x="209.98535"
+         y="584.55676"
+         id="text2523"><tspan
+           sodipodi:role="line"
+           id="tspan2543"
+           x="209.98535"
+           y="584.55676">Abdullah</tspan></text>
+    </g>
+    <g
+       style="filter:url(#filter2371)"
+       id="g2533"
+       transform="translate(-20,325)">
+      <rect
+         style="opacity:1;fill:#2196f3;fill-opacity:1;fill-rule:evenodd;stroke:#000000;stroke-width:1;stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+         id="rect2527"
+         width="179"
+         height="25"
+         x="120.5"
+         y="366.86206" />
+      <text
+         id="text2531"
+         y="384.55676"
+         x="209.98535"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:15px;line-height:125%;font-family:Oswald;-inkscape-font-specification:'Oswald, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:center;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+         xml:space="preserve"><tspan
+           sodipodi:role="line"
+           id="tspan2535"
+           x="209.98535"
+           y="384.55676">Ahmad</tspan></text>
     </g>
   </g>
   <g
@@ -3032,374 +2823,10 @@
      id="layer3"
      inkscape:label="Connector"
      style="display:inline"
-     transform="translate(0,570)">
-    <g
-       transform="translate(-165.5,-1407.3621)"
-       id="g295">
-      <path
-         style="fill:none;fill-rule:evenodd;stroke:#000000;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
-         d="m 285.50001,881.36208 v -14"
-         id="path291"
-         inkscape:connector-curvature="0" />
-      <path
-         style="fill:#000000;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
-         d="m 285.5,892.36206 4.5,-15 -4.5,3 -4.5,-3 z"
-         id="path293"
-         inkscape:connector-curvature="0"
-         sodipodi:nodetypes="ccccc" />
-    </g>
-    <g
-       id="g339"
-       transform="translate(-165.5,-1357.3621)">
-      <path
-         inkscape:connector-curvature="0"
-         id="path335"
-         d="m 285.50001,881.36208 v -14"
-         style="fill:none;fill-rule:evenodd;stroke:#000000;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1" />
-      <path
-         sodipodi:nodetypes="ccccc"
-         inkscape:connector-curvature="0"
-         id="path337"
-         d="m 285.5,892.36206 4.5,-15 -4.5,3 -4.5,-3 z"
-         style="fill:#000000;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1" />
-    </g>
-    <g
-       transform="translate(-165.5,-1257.3621)"
-       id="g453">
-      <path
-         style="fill:none;fill-rule:evenodd;stroke:#000000;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
-         d="m 285.50001,881.36208 v -14"
-         id="path449"
-         inkscape:connector-curvature="0" />
-      <path
-         style="fill:#000000;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
-         d="m 285.5,892.36206 4.5,-15 -4.5,3 -4.5,-3 z"
-         id="path451"
-         inkscape:connector-curvature="0"
-         sodipodi:nodetypes="ccccc" />
-    </g>
-    <g
-       id="g527"
-       transform="translate(-120.00003,-1327.3621)">
-      <g
-         style="display:inline;stroke-width:0.31999999"
-         id="g5639-2"
-         transform="matrix(3.125,0,0,3.125,-528.74994,-1619.5819)">
-        <path
-           style="fill:none;fill-rule:evenodd;stroke:#000000;stroke-width:0.31999996px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
-           d="m 269.99999,830.86206 h 16"
-           id="path5637-1"
-           inkscape:original-d="m 269.99999,830.86206 h 16"
-           inkscape:connector-curvature="0" />
-      </g>
-      <path
-         inkscape:connector-curvature="0"
-         id="path515"
-         d="M 340,1001.3621 V 977.36207"
-         style="fill:none;fill-rule:evenodd;stroke:#000000;stroke-width:0.99999994px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1" />
-      <path
-         sodipodi:nodetypes="ccccc"
-         inkscape:connector-curvature="0"
-         id="path517"
-         d="m 340,1012.3621 4.5,-15.00004 -4.5,3.00004 -4.5,-3.00004 z"
-         style="fill:#000000;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1" />
-    </g>
-    <g
-       id="g553"
-       transform="translate(-65.500006,-1157.3621)">
-      <path
-         inkscape:connector-curvature="0"
-         id="path549"
-         d="m 285.50001,881.36208 v -14"
-         style="fill:none;fill-rule:evenodd;stroke:#000000;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1" />
-      <path
-         sodipodi:nodetypes="ccccc"
-         inkscape:connector-curvature="0"
-         id="path551"
-         d="m 285.5,892.36206 4.5,-15 -4.5,3 -4.5,-3 z"
-         style="fill:#000000;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1" />
-    </g>
-    <g
-       transform="translate(-65.500006,-1107.3621)"
-       id="g573">
-      <path
-         style="fill:none;fill-rule:evenodd;stroke:#000000;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
-         d="m 285.50001,881.36208 v -14"
-         id="path569"
-         inkscape:connector-curvature="0" />
-      <path
-         style="fill:#000000;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
-         d="m 285.5,892.36206 4.5,-15 -4.5,3 -4.5,-3 z"
-         id="path571"
-         inkscape:connector-curvature="0"
-         sodipodi:nodetypes="ccccc" />
-    </g>
-    <g
-       transform="translate(-165.5,-1307.3621)"
-       id="g492">
-      <path
-         style="fill:none;fill-rule:evenodd;stroke:#000000;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
-         d="m 285.50001,881.36208 v -14"
-         id="path488"
-         inkscape:connector-curvature="0" />
-      <path
-         style="fill:#000000;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
-         d="m 285.5,892.36206 4.5,-15 -4.5,3 -4.5,-3 z"
-         id="path490"
-         inkscape:connector-curvature="0"
-         sodipodi:nodetypes="ccccc" />
-    </g>
-    <g
-       transform="translate(34.5,-1357.3621)"
-       id="g544">
-      <path
-         style="fill:none;fill-rule:evenodd;stroke:#000000;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
-         d="m 285.50001,881.36208 v -14"
-         id="path540"
-         inkscape:connector-curvature="0" />
-      <path
-         style="fill:#000000;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
-         d="m 285.5,892.36206 4.5,-15 -4.5,3 -4.5,-3 z"
-         id="path542"
-         inkscape:connector-curvature="0"
-         sodipodi:nodetypes="ccccc" />
-    </g>
-    <g
-       id="g550"
-       transform="translate(34.5,-1257.3621)">
-      <path
-         inkscape:connector-curvature="0"
-         id="path546"
-         d="m 285.50001,881.36208 v -14"
-         style="fill:none;fill-rule:evenodd;stroke:#000000;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1" />
-      <path
-         sodipodi:nodetypes="ccccc"
-         inkscape:connector-curvature="0"
-         id="path548"
-         d="m 285.5,892.36206 4.5,-15 -4.5,3 -4.5,-3 z"
-         style="fill:#000000;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1" />
-    </g>
-    <g
-       id="g556"
-       transform="translate(34.5,-1307.3621)">
-      <path
-         inkscape:connector-curvature="0"
-         id="path552"
-         d="m 285.50001,881.36208 v -14"
-         style="fill:none;fill-rule:evenodd;stroke:#000000;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1" />
-      <path
-         sodipodi:nodetypes="ccccc"
-         inkscape:connector-curvature="0"
-         id="path554"
-         d="m 285.5,892.36206 4.5,-15 -4.5,3 -4.5,-3 z"
-         style="fill:#000000;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1" />
-    </g>
-    <g
-       id="g611"
-       transform="translate(-65.500006,-1057.3621)">
-      <path
-         inkscape:connector-curvature="0"
-         id="path607"
-         d="m 285.50001,881.36208 v -14"
-         style="fill:none;fill-rule:evenodd;stroke:#000000;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1" />
-      <path
-         sodipodi:nodetypes="ccccc"
-         inkscape:connector-curvature="0"
-         id="path609"
-         d="m 285.5,892.36206 4.5,-15 -4.5,3 -4.5,-3 z"
-         style="fill:#000000;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1" />
-    </g>
-    <g
-       transform="translate(-65.500006,-1007.3621)"
-       id="g625">
-      <path
-         style="fill:none;fill-rule:evenodd;stroke:#000000;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
-         d="m 285.50001,881.36208 v -14"
-         id="path621"
-         inkscape:connector-curvature="0" />
-      <path
-         style="fill:#000000;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
-         d="m 285.5,892.36206 4.5,-15 -4.5,3 -4.5,-3 z"
-         id="path623"
-         inkscape:connector-curvature="0"
-         sodipodi:nodetypes="ccccc" />
-    </g>
-    <g
-       id="g639"
-       transform="translate(-65.500006,-957.36206)">
-      <path
-         inkscape:connector-curvature="0"
-         id="path635"
-         d="m 285.50001,881.36208 v -14"
-         style="fill:none;fill-rule:evenodd;stroke:#000000;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1" />
-      <path
-         sodipodi:nodetypes="ccccc"
-         inkscape:connector-curvature="0"
-         id="path637"
-         d="m 285.5,892.36206 4.5,-15 -4.5,3 -4.5,-3 z"
-         style="fill:#000000;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1" />
-    </g>
-    <g
-       id="g703"
-       transform="translate(-165.5,-857.36206)">
-      <path
-         inkscape:connector-curvature="0"
-         id="path699"
-         d="m 285.50001,881.36208 v -14"
-         style="fill:none;fill-rule:evenodd;stroke:#000000;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1" />
-      <path
-         sodipodi:nodetypes="ccccc"
-         inkscape:connector-curvature="0"
-         id="path701"
-         d="m 285.5,892.36206 4.5,-15 -4.5,3 -4.5,-3 z"
-         style="fill:#000000;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1" />
-    </g>
-    <g
-       transform="translate(34.5,-857.36206)"
-       id="g709">
-      <path
-         style="fill:none;fill-rule:evenodd;stroke:#000000;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
-         d="m 285.50001,881.36208 v -14"
-         id="path705"
-         inkscape:connector-curvature="0" />
-      <path
-         style="fill:#000000;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
-         d="m 285.5,892.36206 4.5,-15 -4.5,3 -4.5,-3 z"
-         id="path707"
-         inkscape:connector-curvature="0"
-         sodipodi:nodetypes="ccccc" />
-    </g>
-    <g
-       id="g484"
-       transform="translate(0,-50)">
-      <path
-         inkscape:connector-curvature="0"
-         id="path711"
-         d="m 120.00001,24.000019 v -6"
-         style="fill:none;fill-rule:evenodd;stroke:#000000;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1" />
-      <path
-         sodipodi:nodetypes="ccccc"
-         inkscape:connector-curvature="0"
-         id="path713"
-         d="m 120,34.999999 4.5,-15 -4.5,3 -4.5,-3 z"
-         style="fill:#000000;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1" />
-      <g
-         transform="matrix(3.125,0,0,3.125,-724.24996,-2578.9439)"
-         id="g5639-2-4"
-         style="display:inline;stroke-width:0.31999999">
-        <path
-           inkscape:connector-curvature="0"
-           inkscape:original-d="m 269.99999,830.86206 h 16"
-           id="path5637-1-6"
-           d="m 269.99999,830.86206 h 16"
-           style="fill:none;fill-rule:evenodd;stroke:#000000;stroke-width:0.31999996px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1" />
-      </g>
-      <path
-         style="fill:none;fill-rule:evenodd;stroke:#000000;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
-         d="M 170,17.999999 V 9.9999995"
-         id="path4447"
-         inkscape:connector-curvature="0" />
-    </g>
-    <g
-       id="g4463"
-       transform="translate(-130,-300)">
-      <path
-         inkscape:connector-curvature="0"
-         id="path717"
-         d="m 450.00001,274.00002 v -6"
-         style="fill:none;fill-rule:evenodd;stroke:#000000;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1" />
-      <path
-         sodipodi:nodetypes="ccccc"
-         inkscape:connector-curvature="0"
-         id="path719"
-         d="m 450,285 4.5,-15 -4.5,3 -4.5,-3 z"
-         style="fill:#000000;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1" />
-      <g
-         style="display:inline;stroke-width:0.31999999"
-         id="g4445"
-         transform="matrix(3.125,0,0,3.125,-443.24996,-2328.9439)">
-        <path
-           style="fill:none;fill-rule:evenodd;stroke:#000000;stroke-width:0.31999996px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
-           d="m 269.99999,830.86206 h 16"
-           id="path4443"
-           inkscape:original-d="m 269.99999,830.86206 h 16"
-           inkscape:connector-curvature="0" />
-      </g>
-      <path
-         style="fill:none;fill-rule:evenodd;stroke:#000000;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
-         d="m 400,268 v -8"
-         id="path4449"
-         inkscape:connector-curvature="0" />
-    </g>
-    <g
-       transform="translate(-165.5,-807.36206)"
-       id="g4485">
-      <path
-         style="fill:none;fill-rule:evenodd;stroke:#000000;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
-         d="m 285.50001,881.36208 v -14"
-         id="path4481"
-         inkscape:connector-curvature="0" />
-      <path
-         style="fill:#000000;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
-         d="m 285.5,892.36206 4.5,-15 -4.5,3 -4.5,-3 z"
-         id="path4483"
-         inkscape:connector-curvature="0"
-         sodipodi:nodetypes="ccccc" />
-    </g>
-    <g
-       id="g4491"
-       transform="translate(34.5,-807.36206)">
-      <path
-         inkscape:connector-curvature="0"
-         id="path4487"
-         d="m 285.50001,881.36208 v -14"
-         style="fill:none;fill-rule:evenodd;stroke:#000000;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1" />
-      <path
-         sodipodi:nodetypes="ccccc"
-         inkscape:connector-curvature="0"
-         id="path4489"
-         d="m 285.5,892.36206 4.5,-15 -4.5,3 -4.5,-3 z"
-         style="fill:#000000;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1" />
-    </g>
-    <g
-       id="g4513"
-       transform="translate(-165.5,-757.36206)">
-      <path
-         inkscape:connector-curvature="0"
-         id="path4509"
-         d="m 285.50001,881.36208 v -14"
-         style="fill:none;fill-rule:evenodd;stroke:#000000;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1" />
-      <path
-         sodipodi:nodetypes="ccccc"
-         inkscape:connector-curvature="0"
-         id="path4511"
-         d="m 285.5,892.36206 4.5,-15 -4.5,3 -4.5,-3 z"
-         style="fill:#000000;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1" />
-    </g>
-    <g
-       transform="translate(34.5,-757.36206)"
-       id="g4519">
-      <path
-         style="fill:none;fill-rule:evenodd;stroke:#000000;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
-         d="m 285.50001,881.36208 v -14"
-         id="path4515"
-         inkscape:connector-curvature="0" />
-      <path
-         style="fill:#000000;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
-         d="m 285.5,892.36206 4.5,-15 -4.5,3 -4.5,-3 z"
-         id="path4517"
-         inkscape:connector-curvature="0"
-         sodipodi:nodetypes="ccccc" />
-    </g>
-    <path
-       sodipodi:nodetypes="ccccc"
-       inkscape:connector-curvature="0"
-       id="path4634"
-       d="m 120,135 4.5,-15 -4.5,3 -4.5,-3 z"
-       style="fill:#000000;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1" />
+     transform="translate(0,220)">
     <g
        id="g4640"
-       transform="translate(-65.5,-607.36206)">
+       transform="translate(-85.5,-982.3621)">
       <path
          inkscape:connector-curvature="0"
          id="path4636"
@@ -3413,7 +2840,7 @@
          style="fill:#000000;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1" />
     </g>
     <g
-       transform="translate(-65.5,-557.36206)"
+       transform="translate(-85.5,-932.36206)"
        id="g4652">
       <path
          style="fill:none;fill-rule:evenodd;stroke:#000000;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
@@ -3428,33 +2855,7 @@
          sodipodi:nodetypes="ccccc" />
     </g>
     <g
-       transform="translate(-120.00003,-827.3621)"
-       id="g4678">
-      <g
-         transform="matrix(3.125,0,0,3.125,-528.74994,-1619.5819)"
-         id="g4672"
-         style="display:inline;stroke-width:0.31999999">
-        <path
-           inkscape:connector-curvature="0"
-           inkscape:original-d="m 269.99999,830.86206 h 16"
-           id="path4670"
-           d="m 269.99999,830.86206 h 16"
-           style="fill:none;fill-rule:evenodd;stroke:#000000;stroke-width:0.31999996px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1" />
-      </g>
-      <path
-         style="fill:none;fill-rule:evenodd;stroke:#000000;stroke-width:0.99999994px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
-         d="M 340,1001.3621 V 977.36207"
-         id="path4674"
-         inkscape:connector-curvature="0" />
-      <path
-         style="fill:#000000;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
-         d="m 340,1012.3621 4.5,-15.00004 -4.5,3.00004 -4.5,-3.00004 z"
-         id="path4676"
-         inkscape:connector-curvature="0"
-         sodipodi:nodetypes="ccccc" />
-    </g>
-    <g
-       transform="translate(-65.5,-507.36206)"
+       transform="translate(-85.5,-882.36206)"
        id="g4700">
       <path
          style="fill:none;fill-rule:evenodd;stroke:#000000;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
@@ -3470,7 +2871,7 @@
     </g>
     <g
        id="g4706"
-       transform="translate(-65.5,-457.36206)">
+       transform="translate(-85.5,-832.36206)">
       <path
          inkscape:connector-curvature="0"
          id="path4702"
@@ -3485,7 +2886,7 @@
     </g>
     <g
        id="g4732"
-       transform="translate(-65.5,-507.36206)">
+       transform="translate(-85.5,-882.36206)">
       <path
          inkscape:connector-curvature="0"
          id="path4728"
@@ -3499,7 +2900,7 @@
          style="fill:#000000;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1" />
     </g>
     <g
-       transform="translate(-65.5,-457.36206)"
+       transform="translate(-85.5,-832.36206)"
        id="g4738">
       <path
          style="fill:none;fill-rule:evenodd;stroke:#000000;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
@@ -3515,7 +2916,7 @@
     </g>
     <g
        id="g4776"
-       transform="translate(-65.5,-407.36206)">
+       transform="translate(-85.5,-782.36206)">
       <path
          inkscape:connector-curvature="0"
          id="path4772"
@@ -3529,7 +2930,7 @@
          style="fill:#000000;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1" />
     </g>
     <g
-       transform="translate(-65.5,-407.36206)"
+       transform="translate(-85.5,-782.36206)"
        id="g4788">
       <path
          style="fill:none;fill-rule:evenodd;stroke:#000000;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
@@ -3544,7 +2945,7 @@
          sodipodi:nodetypes="ccccc" />
     </g>
     <g
-       transform="translate(-65.5,-657.36206)"
+       transform="translate(-85.5,-1032.3621)"
        id="g1489">
       <path
          style="fill:none;fill-rule:evenodd;stroke:#000000;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
@@ -3555,6 +2956,171 @@
          style="fill:#000000;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
          d="m 285.5,892.36206 4.5,-15 -4.5,3 -4.5,-3 z"
          id="path1487"
+         inkscape:connector-curvature="0"
+         sodipodi:nodetypes="ccccc" />
+    </g>
+    <g
+       transform="translate(-85.5,-682.3621)"
+       id="g2437">
+      <path
+         style="fill:none;fill-rule:evenodd;stroke:#000000;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+         d="m 285.50001,881.36208 v -14"
+         id="path2433"
+         inkscape:connector-curvature="0" />
+      <path
+         style="fill:#000000;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+         d="m 285.5,892.36206 4.5,-15 -4.5,3 -4.5,-3 z"
+         id="path2435"
+         inkscape:connector-curvature="0"
+         sodipodi:nodetypes="ccccc" />
+    </g>
+    <g
+       id="g2443"
+       transform="translate(-85.5,-632.36206)">
+      <path
+         inkscape:connector-curvature="0"
+         id="path2439"
+         d="m 285.50001,881.36208 v -14"
+         style="fill:none;fill-rule:evenodd;stroke:#000000;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1" />
+      <path
+         sodipodi:nodetypes="ccccc"
+         inkscape:connector-curvature="0"
+         id="path2441"
+         d="m 285.5,892.36206 4.5,-15 -4.5,3 -4.5,-3 z"
+         style="fill:#000000;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1" />
+    </g>
+    <g
+       id="g2449"
+       transform="translate(-85.5,-582.36206)">
+      <path
+         inkscape:connector-curvature="0"
+         id="path2445"
+         d="m 285.50001,881.36208 v -14"
+         style="fill:none;fill-rule:evenodd;stroke:#000000;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1" />
+      <path
+         sodipodi:nodetypes="ccccc"
+         inkscape:connector-curvature="0"
+         id="path2447"
+         d="m 285.5,892.36206 4.5,-15 -4.5,3 -4.5,-3 z"
+         style="fill:#000000;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1" />
+    </g>
+    <g
+       transform="translate(-85.5,-532.36206)"
+       id="g2455">
+      <path
+         style="fill:none;fill-rule:evenodd;stroke:#000000;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+         d="m 285.50001,881.36208 v -14"
+         id="path2451"
+         inkscape:connector-curvature="0" />
+      <path
+         style="fill:#000000;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+         d="m 285.5,892.36206 4.5,-15 -4.5,3 -4.5,-3 z"
+         id="path2453"
+         inkscape:connector-curvature="0"
+         sodipodi:nodetypes="ccccc" />
+    </g>
+    <g
+       transform="translate(-85.5,-582.36206)"
+       id="g2461">
+      <path
+         style="fill:none;fill-rule:evenodd;stroke:#000000;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+         d="m 285.50001,881.36208 v -14"
+         id="path2457"
+         inkscape:connector-curvature="0" />
+      <path
+         style="fill:#000000;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+         d="m 285.5,892.36206 4.5,-15 -4.5,3 -4.5,-3 z"
+         id="path2459"
+         inkscape:connector-curvature="0"
+         sodipodi:nodetypes="ccccc" />
+    </g>
+    <g
+       id="g2467"
+       transform="translate(-85.5,-532.36206)">
+      <path
+         inkscape:connector-curvature="0"
+         id="path2463"
+         d="m 285.50001,881.36208 v -14"
+         style="fill:none;fill-rule:evenodd;stroke:#000000;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1" />
+      <path
+         sodipodi:nodetypes="ccccc"
+         inkscape:connector-curvature="0"
+         id="path2465"
+         d="m 285.5,892.36206 4.5,-15 -4.5,3 -4.5,-3 z"
+         style="fill:#000000;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1" />
+    </g>
+    <g
+       transform="translate(-85.5,-482.36206)"
+       id="g2473">
+      <path
+         style="fill:none;fill-rule:evenodd;stroke:#000000;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+         d="m 285.50001,881.36208 v -14"
+         id="path2469"
+         inkscape:connector-curvature="0" />
+      <path
+         style="fill:#000000;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+         d="m 285.5,892.36206 4.5,-15 -4.5,3 -4.5,-3 z"
+         id="path2471"
+         inkscape:connector-curvature="0"
+         sodipodi:nodetypes="ccccc" />
+    </g>
+    <g
+       id="g2479"
+       transform="translate(-85.5,-482.36206)">
+      <path
+         inkscape:connector-curvature="0"
+         id="path2475"
+         d="m 285.50001,881.36208 v -14"
+         style="fill:none;fill-rule:evenodd;stroke:#000000;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1" />
+      <path
+         sodipodi:nodetypes="ccccc"
+         inkscape:connector-curvature="0"
+         id="path2477"
+         d="m 285.5,892.36206 4.5,-15 -4.5,3 -4.5,-3 z"
+         style="fill:#000000;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1" />
+    </g>
+    <g
+       id="g2485"
+       transform="translate(-85.5,-732.3621)">
+      <path
+         inkscape:connector-curvature="0"
+         id="path2481"
+         d="m 285.50001,881.36208 v -14"
+         style="fill:none;fill-rule:evenodd;stroke:#000000;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1" />
+      <path
+         sodipodi:nodetypes="ccccc"
+         inkscape:connector-curvature="0"
+         id="path2483"
+         d="m 285.5,892.36206 4.5,-15 -4.5,3 -4.5,-3 z"
+         style="fill:#000000;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1" />
+    </g>
+    <g
+       id="g2557"
+       transform="translate(-85.5,-432.36206)">
+      <path
+         inkscape:connector-curvature="0"
+         id="path2553"
+         d="m 285.50001,881.36208 v -14"
+         style="fill:none;fill-rule:evenodd;stroke:#000000;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1" />
+      <path
+         sodipodi:nodetypes="ccccc"
+         inkscape:connector-curvature="0"
+         id="path2555"
+         d="m 285.5,892.36206 4.5,-15 -4.5,3 -4.5,-3 z"
+         style="fill:#000000;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1" />
+    </g>
+    <g
+       transform="translate(-85.5,-432.36206)"
+       id="g2563">
+      <path
+         style="fill:none;fill-rule:evenodd;stroke:#000000;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+         d="m 285.50001,881.36208 v -14"
+         id="path2559"
+         inkscape:connector-curvature="0" />
+      <path
+         style="fill:#000000;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+         d="m 285.5,892.36206 4.5,-15 -4.5,3 -4.5,-3 z"
+         id="path2561"
          inkscape:connector-curvature="0"
          sodipodi:nodetypes="ccccc" />
     </g>
